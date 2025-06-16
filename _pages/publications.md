@@ -11,7 +11,7 @@ author_profile: true
 
 <div class="paper-box">
   <div class="paper-box-image">
-    <img src="/images/publication_rfearplus.png" alt="RF-Ear+" width="100%">
+    <img src="/images/publication_rfearplus.jpg" alt="RF-Ear+" width="100%">
   </div>
   <div class="paper-box-text">
     <strong>RF-Ear+</strong><br>
