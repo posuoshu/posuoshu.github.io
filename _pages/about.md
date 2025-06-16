@@ -28,6 +28,13 @@ redirect_from:
 
 目前，冯博士担任 IEEE ISPA 2025 程序委员会共同主席、IEEE MMTC 新闻编辑、ACM Multimedia 程序委员会成员，积极参与国际学术社区建设。
 
+📌 **个人主页**：  
+[https://posuoshu.github.io/](https://posuoshu.github.io/)
+
+📺 **研究成果 Demo 视频**：  
+[点击查看 Demo 视频](https://studio.youtube.com/channel/UCpl8qpA-VCHB1MQ6mJQBqrg/videos/upload?filter=%5B%5D&sort=%7B%22columnType%22%3A%22date%22%2C%22sortOrder%22%3A%22DESCENDING%22%7D)
+
+
 ## 🎓 教育经历
 
 * **2017.09 – 2023.06**  中国科学技术大学，计算机科学与技术，博士（硕博连读）
