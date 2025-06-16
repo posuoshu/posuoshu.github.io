@@ -46,14 +46,25 @@ redirect_from:
 * **2025.04 – 至今**  日本电气通信大学，信息科学与工程学院，特任研究员
 * **2023.10 – 2025.03**  香港理工大学，电子计算学系，博士后（PI: 杨磊，港澳优青）
 
+<style>
+  .two-column {
+    display: flex;
+    gap: 40px;
+    align-items: flex-start;
+  }
+  .two-column > div {
+    flex: 1;
+  }
+</style>
+
 ## 🔬 科研概述
 
 <h2>智能物联网与泛在感知应用研究</h2>
 
-<div style="display: flex; gap: 40px; align-items: flex-start;">
+<div class="two-column">
 
 <!-- 左栏 -->
-<div style="flex: 1;">
+<div>
   <h3>一、无线智能感知与系统构建</h3>
   <p>致力于构建高精度、低功耗的非接触式感知系统，涵盖建模与多场景落地应用：</p>
   
@@ -74,7 +85,7 @@ redirect_from:
 </div>
 
 <!-- 右栏 -->
-<div style="flex: 1;">
+<div>
   <h3>二、可穿戴感知与人体健康检测</h3>
   <p>以多模态生物信号融合为基础，开展面向个体健康状态的持续感知与推理：</p>
 
