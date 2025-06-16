@@ -3,8 +3,9 @@
 permalink: /publications/
 title: "论文与专利"
 layout: single
-author\_profile: false
-----------------------
+author_profile: true
+
+---
 
 ## 📚 第一作者/共同一作论文
 
