@@ -31,4 +31,4 @@ author\_profile: false
 
 ## 📈 引用情况
 
-请访问：[Google Scholar 引用页](https://scholar.google.com/citations?user=WMkMTb4AAAAJ) 查看引用详情与趋势。
+请访问：[Google Scholar 引用页](https://scholar.google.com/citations?hl=zh-CN&user=bENA-F0AAAAJ) 查看引用详情与趋势。
