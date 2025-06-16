@@ -12,7 +12,7 @@ author_profile: true
 <table>
   <tr>
     <td style="width: 30%; vertical-align: top;">
-      <img src="/images/publication_rfearplus.png" alt="RF-Ear+" style="width: 100%; max-width: 160px;">
+      <img src="/images/publication_rfearplus.jpg" alt="RF-Ear+" style="width: 100%; max-width: 160px;">
     </td>
     <td style="width: 70%; padding-left: 20px; vertical-align: top;">
       <strong>RF-Ear+</strong><br>
