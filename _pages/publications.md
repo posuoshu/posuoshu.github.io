@@ -9,13 +9,47 @@ author_profile: true
 
 ## 📚 第一作者/共同一作论文
 
-1. **Yuanhao Feng**, Youwei Zhang, Panlong Yang, Hao Zhou, Haohua Du, Xiang-Yang Li. RF-Ear+: A Mechanical Identification and Troubleshooting System based on Contactless Vibration Sensing. *IEEE Transactions on Mobile Computing (TMC)*, 2022. *(CCF-A, Q1)*
-2. **Yuanhao Feng**, Donghui Dai, Xiaopeng Zhao, Jingyu Tong, Zheng Gong, Lei Yang. Deciphering Nano-Scale, Sub-Hertz Mechanical Vibrations in Industry 4.0: A Battery-Free Sensing Approach. *IEEE PerCom*, 2025. *(CCF-B)*
-3. **Yuanhao Feng**, Jinyang Huang, Youwei Zhang, Xiang Zhang, Meng Li, Fusang Zhang, Zhi Liu. RF-Eye: Commodity RFID Can Know What You Write and Who You Are Wherever You Are. *ACM Transactions on Sensor Networks (TOSN)*, 2025. *(CCF-B)*
-4. **Yuanhao Feng**, Youwei Zhang, Hao Zhou, Xiang Zhang, Zhi Liu. A Lightweight Edge-Centric Chewing Sensing System with Multimodal Biosignal Fusion for Oral Health Monitoring. *UbiComp/ISWC Poster*, 2025. *(CCF-A)*
-5. Panlong Yang\*, **Yuanhao Feng**\*, Jie Xiong, Ziyang Chen, Xiang-Yang Li. RF-Ear: Contactless Multi-device Vibration Sensing and Identification Using COTS RFID. *IEEE INFOCOM*, 2020. *(CCF-A，共一)*
-6. **Yuanhao Feng**, Panlong Yang, Yanyong Zhang, Xiang-Yang Li, Ziyang Chen, Gang Huang. The RFID Can Hear Your Music Play. *ACM MOBICOM Demo*, 2019. *(CCF-A)*
-7. **Yuanhao Feng**, Panlong Yang, Ziyang Chen, Gang Huang, Yubo Yan, Xiang-Yang Li. RF-Recorder: A Contactless Music Play Recording System Using COTS RFID. *IEEE MSN*, 2019. *(CCF-C)*
+<div class="paper-box">
+  <div class="paper-box-image">
+    <img src="/images/publication_rfearplus.png" alt="RF-Ear+" width="100%">
+  </div>
+  <div class="paper-box-text">
+    <strong>RF-Ear+</strong><br>
+    Yuanhao Feng, Youwei Zhang, Panlong Yang, Hao Zhou, Haohua Du, Xiang-Yang Li.<br>
+    <em>IEEE Transactions on Mobile Computing (TMC), 2022</em><br>
+    <span style="font-size: 90%">
+      提出了一种基于 RFID 的无源振动识别系统，支持机械设备状态识别与故障诊断，实现工业现场的非接触智能监测。
+    </span><br>
+    🔗 <a href="https://doi.org/10.1109/TMC.2022.XXXXXX" target="_blank">论文链接</a>
+  </div>
+</div>
+
+<div class="paper-box">
+  <div class="paper-box-image">
+    <img src="/images/publication_percom2025.png" alt="PerCom 2025" width="100%">
+  </div>
+  <div class="paper-box-text">
+    <strong>Deciphering Nano-Scale, Sub-Hertz Mechanical Vibrations in Industry 4.0</strong><br>
+    Yuanhao Feng, Donghui Dai, Xiaopeng Zhao, Jingyu Tong, Zheng Gong, Lei Yang.<br>
+    <em>IEEE PerCom 2025</em><br>
+    <span style="font-size: 90%">
+      本文提出一种基于电荷调制的无源传感系统，首次实现亚赫兹纳米振动感知，突破传统 RFID 采样频率限制。
+    </span><br>
+    🔗 <a href="https://doi.org/10.1109/PerCom.2025.XXXXXX" target="_blank">论文链接</a>
+  </div>
+</div>
+
+<div class="paper-box">
+  <div class="paper-box-image">
+    <img src="/images/publication_rfeye.png" alt="RF-Eye" width="100%">
+  </div>
+  <div class="paper-box-text">
+    <strong>RF-Eye</strong><br>
+    Yuanhao Feng, Jinyang Huang, Youwei Zhang, Xiang Zhang, Meng Li, Fusang Zhang, Zhi Liu.<br>
+    <em>ACM Transactions on Sensor Networks (TOSN), 2025</em><br>
+    <span style="font-size: 90%">
+      利用 RFID 标签反射特征实现手写轨迹与身份联合识别，支持隐形用户认证和行为溯源。
+
 
 ## 🤝 合作作者论文（部分）
 
