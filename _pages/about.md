@@ -64,4 +64,3 @@ redirect_from:
 * 📞 电话：+86 13865428283
 * 📍 地址：日本东京都调布市 小岛町1-1-1，UEC Port Lodge 210号室
 * 🔗 [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=bENA-F0AAAAJ) ｜ [GitHub](https://github.com/posuoshu) ｜ [ORCID](https://orcid.org/)
-![image](https://github.com/user-attachments/assets/b0f44079-cda8-4838-8fe6-8cfc7fcb3c92)
