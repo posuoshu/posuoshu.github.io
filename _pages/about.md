@@ -63,4 +63,4 @@ redirect\_from:
 * 📧 邮箱：[fyhace@mail.ustc.edu.cn](mailto:fyhace@mail.ustc.edu.cn)
 * 📞 电话：+86 13865428283
 * 📍 地址：日本东京都调布市 小岛町1-1-1，UEC Port Lodge 210号室
-* 🔗 [Google Scholar](https://scholar.google.com/citations?user=WMkMTb4AAAAJ) ｜ [GitHub](https://github.com/posuoshu) ｜ [ORCID](https://orcid.org/)
+* 🔗 [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=bENA-F0AAAAJ) ｜ [GitHub](https://github.com/posuoshu) ｜ [ORCID](https://orcid.org/)
