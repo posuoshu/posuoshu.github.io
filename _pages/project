@@ -1,35 +1,50 @@
 ---
 
-permalink: /publications/
-title: "论文与专利"
+permalink: /project/
+title: "项目与资金"
 layout: single
 author_profile: true
 
----
+---------------------
 
-## 📚 第一作者/共同一作论文
+## 💼 在研与已结题项目
 
-1. **Yuanhao Feng**, Youwei Zhang, Panlong Yang, Hao Zhou, Haohua Du, Xiang-Yang Li. RF-Ear+: A Mechanical Identification and Troubleshooting System based on Contactless Vibration Sensing. *IEEE Transactions on Mobile Computing (TMC)*, 2022. *(CCF-A, Q1)*
-2. **Yuanhao Feng**, Donghui Dai, Xiaopeng Zhao, Jingyu Tong, Zheng Gong, Lei Yang. Deciphering Nano-Scale, Sub-Hertz Mechanical Vibrations in Industry 4.0: A Battery-Free Sensing Approach. *IEEE PerCom*, 2025. *(CCF-B)*
-3. **Yuanhao Feng**, Jinyang Huang, Youwei Zhang, Xiang Zhang, Meng Li, Fusang Zhang, Zhi Liu. RF-Eye: Commodity RFID Can Know What You Write and Who You Are Wherever You Are. *ACM Transactions on Sensor Networks (TOSN)*, 2025. *(CCF-B)*
-4. **Yuanhao Feng**, Youwei Zhang, Hao Zhou, Xiang Zhang, Zhi Liu. A Lightweight Edge-Centric Chewing Sensing System with Multimodal Biosignal Fusion for Oral Health Monitoring. *UbiComp/ISWC Poster*, 2025. *(CCF-A)*
-5. Panlong Yang\*, **Yuanhao Feng**\*, Jie Xiong, Ziyang Chen, Xiang-Yang Li. RF-Ear: Contactless Multi-device Vibration Sensing and Identification Using COTS RFID. *IEEE INFOCOM*, 2020. *(CCF-A，共一)*
-6. **Yuanhao Feng**, Panlong Yang, Yanyong Zhang, Xiang-Yang Li, Ziyang Chen, Gang Huang. The RFID Can Hear Your Music Play. *ACM MOBICOM Demo*, 2019. *(CCF-A)*
-7. **Yuanhao Feng**, Panlong Yang, Ziyang Chen, Gang Huang, Yubo Yan, Xiang-Yang Li. RF-Recorder: A Contactless Music Play Recording System Using COTS RFID. *IEEE MSN*, 2019. *(CCF-C)*
+### 主持项目
 
-## 🤝 合作作者论文（部分）
+1. **安徽省重点自主创新专项** （2024/01–2025/12）
 
-1. Feiyu Han, Panlong Yang, **Yuanhao Feng**, Haohua Du, Xiang-Yang Li. Exploring Earable-based Passive User Authentication via Interpretable In-ear Breathing Biometrics. *IEEE TMC*, 2024.
-2. Feiyu Han, Panlong Yang, **Yuanhao Feng**, Weiwei Jiang, Youwei Zhang, Xiang-Yang Li. EarSleep: In-ear Acoustic-based Physical and Physiological Activity Recognition for Sleep Stage Detection. *IMWUT*, 2024.
-3. Feiyu Han, Panlong Yang, Shaojie Yan, Haohua Du, **Yuanhao Feng**. BreathSign: Transparent and Continuous In-ear Authentication Using Bone-conducted Breathing Biometrics. *IEEE INFOCOM*, 2023.
-4. X. Zhang, J. Huang, H. Yan, **Yuanhao Feng**, et al. WiOpen: A Robust Wi-Fi-based Open-set Gesture Recognition Framework. *IEEE THMS*, 2025.
-5. Jinyang Huang, Jia-Xuan Bai, Xiang Zhang, Zhi Liu, **Yuanhao Feng**, et al. Keystrokesniffer: An off-the-shelf smartphone can eavesdrop on your privacy. *IEEE TIFS*, 2024.
+   * 项目名称：基于耳戴设备的表情识别和情绪分析研究
+   * 项目来源：中央高校基本科研业务费专项资金资助（情感计算与先进智能机器安徽省重点实验室）
+   * 项目编号：PA2024GDSK0076
+   * 经费：6 万元
+   * 项目角色：项目负责人（排名第 1）
 
-## 📄 授权专利
+### 参与项目（骨干成员）
 
-1. 杨盘隆, 李向阳, 冯元浩. 一种能同时测量多个物体振动频率的非接触式系统及方法. 授权专利, CN201910406326. 授权时间：2020-12-25.（成果转化：50万元）
-2. 李强, 冯元浩, 王震. 一种数据驱动的智能物联网平台工作流实现方法及其系统. 授权专利, No. 2021109743029. 授权时间：2021-08-24.
+2. **国家重点研发计划项目**（2018/07–2023/03，已结题）
 
-## 📈 引用情况
+   * 项目名称：物联网与智慧城市安全保障关键技术研究
+   * 所属课题：适应智慧城市与物联网安全目标的安全架构和应用示范
+   * 项目编号：2018YFB0803401
+   * 项目总经费：600 万元
+   * 项目来源：工业和信息化部产业发展促进中心
 
-请访问：[Google Scholar 引用页](https://scholar.google.com/citations?hl=zh-CN&user=bENA-F0AAAAJ) 查看引用详情与趋势。
+3. **香港特别行政区创新科技署“研究人才计划”项目**（2023/08–2024/09，已结题）
+
+   * 项目名称：Dual-Channel Near-Field Identification Tags: Deep-Learning Reinforced Design and Electronic-Inks Powered Fabrication
+   * 项目编号：ITS/099/21
+   * 项目经费：49.99 万港币
+   * 项目角色：骨干成员
+
+4. **广东电网联合项目**（2024/12–2027/03，在研）
+
+   * 项目名称：基于无源传感和通信感知一体化的变压器状态感知与评估系统
+   * 项目编号：GDKJXM20231537
+   * 项目经费：520 万元
+   * 项目角色：项目骨干
+
+5. **广西电网联合项目**（2024/10–2026/10，在研）
+
+   * 项目名称：接地网腐蚀状态数字孪生技术研究（课题 1：无线感知技术研究）
+   * 项目经费：225.94 万元
+   * 项目角色：项目骨干
