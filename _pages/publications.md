@@ -9,25 +9,15 @@ author_profile: true
 
 ## 📚 第一作者/共同一作论文
 
-<table style="width: 100%; table-layout: fixed;">
-  <tr>
-    <td style="width: 35%; vertical-align: top;">
-      <img src="/images/publication_rfearplus.jpg"
-           alt="RF-Ear+"
-           style="width: 250px; max-width: 100%; float: left; margin-right: 12px;">
-    </td>
-    <td style="width: 65%; vertical-align: top;">
-      <strong>RF-Ear+: A Mechanical Identification and Troubleshooting System based on Contactless Vibration Sensing</strong><br>
-      Yuanhao Feng, Youwei Zhang, Panlong Yang, Hao Zhou, Haohua Du, Xiang-Yang Li.<br>
-      <em>IEEE Transactions on Mobile Computing (TMC), 2022</em><br>
-      <span style="font-size: 90%; color: #666;">CCF-A, 中科院分区 Q1</span><br>
-      <p style="font-size: 90%; margin-top: 6px;">
-        提出了一种基于 RFID 的无源振动识别系统，支持机械设备状态识别与故障诊断，实现工业现场的非接触智能监测。
-      </p>
-      🔗 <a href="https://ieeexplore.ieee.org/document/9904298" target="_blank">论文链接</a>
-    </td>
-  </tr>
-</table>
+### 📰 RF-Ear+: A Mechanical Identification and Troubleshooting System based on Contactless Vibration Sensing  
+![RF-Ear+](/images/publication_rfearplus.jpg)
+
+**Yuanhao Feng**, Youwei Zhang, Panlong Yang, Hao Zhou, Haohua Du, Xiang-Yang Li  
+*IEEE Transactions on Mobile Computing (TMC), 2022*  
+CCF-A, 中科院 Q1 区  
+提出了一种基于 RFID 的无源振动识别系统，支持机械设备状态识别与故障诊断，实现工业现场的非接触智能监测。  
+🔗 [论文链接](https://ieeexplore.ieee.org/document/9904298)
+
 
 <table style="width: 100%; table-layout: fixed;">
   <tr>
