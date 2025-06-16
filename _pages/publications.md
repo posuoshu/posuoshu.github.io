@@ -34,7 +34,7 @@ author_profile: true
     <td style="width: 35%; vertical-align: top;">
       <img src="/images/publication_vibrostethos.jpg"
            alt="RF-Ear+"
-           style="width: 350px; max-width: 100%; float: left; margin-right: 12px;">
+           style="width: 350px; max-width: 100%; height: auto; object-fit: contain; float: left; margin-right: 12px;">
     </td>
     <td style="width: 65%; vertical-align: top;">
       <strong>Yuanhao Feng</strong>, Donghui Dai, Xiaopeng Zhao, Jingyu Tong, Zheng Gong, Lei Yang.
@@ -42,7 +42,7 @@ author_profile: true
         <strong>IEEE PerCom 2025</strong>, 2025.
         <span style="font-size: 90%; color: #666;">CCF-B, 人机交互/普适计算旗舰会议</span>
       <p style="font-size: 90%; margin-top: 6px;">
-        提出了一种基于 RFID 的无源振动识别系统，支持机械设备状态识别与故障诊断，实现工业现场的非接触智能监测。
+         本文提出一种基于电荷调制的无源传感系统，首次实现亚赫兹纳米振动感知，突破传统 RFID 采样频率限制。
       </p>
       🔗 <a href="https://ieeexplore.ieee.org/document/9904298" target="_blank">论文链接</a>
     </td>
@@ -51,20 +51,6 @@ author_profile: true
 
 
 
-<div class="paper-box">
-  <div class="paper-box-image">
-    <img src="/images/publication_percom2025.png" alt="PerCom 2025" width="100%">
-  </div>
-  <div class="paper-box-text">
-    <strong>Deciphering Nano-Scale, Sub-Hertz Mechanical Vibrations in Industry 4.0</strong><br>
-    Yuanhao Feng, Donghui Dai, Xiaopeng Zhao, Jingyu Tong, Zheng Gong, Lei Yang.<br>
-    <em>IEEE PerCom 2025</em><br>
-    <span style="font-size: 90%">
-      本文提出一种基于电荷调制的无源传感系统，首次实现亚赫兹纳米振动感知，突破传统 RFID 采样频率限制。
-    </span><br>
-    🔗 <a href="https://doi.org/10.1109/PerCom.2025.XXXXXX" target="_blank">论文链接</a>
-  </div>
-</div>
 
 <div class="paper-box">
   <div class="paper-box-image">
