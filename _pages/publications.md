@@ -29,6 +29,25 @@ author_profile: true
   </tr>
 </table>
 
+<table style="width: 100%; table-layout: fixed;">
+  <tr>
+    <td style="width: 35%; vertical-align: top;">
+      <img src="/images/publication_vibrostethos.jpg"
+           alt="RF-Ear+"
+           style="width: 250px; max-width: 100%; float: left; margin-right: 12px;">
+    </td>
+    <td style="width: 65%; vertical-align: top;">
+      <strong>Yuanhao Feng</strong>, Donghui Dai, Xiaopeng Zhao, Jingyu Tong, Zheng Gong, Lei Yang.
+        <em>Deciphering Nano-Scale, Sub-Hertz Mechanical Vibrations in Industry 4.0: A Battery-Free Sensing Approach</em>,
+        <strong>IEEE PerCom 2025</strong>, 2025.
+        <span style="font-size: 90%; color: #666;">CCF-B, 人机交互/普适计算旗舰会议</span>
+      <p style="font-size: 90%; margin-top: 6px;">
+        提出了一种基于 RFID 的无源振动识别系统，支持机械设备状态识别与故障诊断，实现工业现场的非接触智能监测。
+      </p>
+      🔗 <a href="https://ieeexplore.ieee.org/document/9904298" target="_blank">论文链接</a>
+    </td>
+  </tr>
+</table>
 
 
 
