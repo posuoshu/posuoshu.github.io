@@ -47,6 +47,7 @@ redirect_from:
 * **2023.10 – 2025.03**  香港理工大学，电子计算学系，博士后（PI: 杨磊，港澳优青）
 
 ## 🔬 科研方向
+<img src="/images/research_overview.jpg" alt="Research Overview" style="width:100%; max-width:720px; margin-bottom: 16px; border: 1px solid #ccc; border-radius: 8px;">
 
 * 无线感知与边缘智能
 * RFID/WiFi 无源通信感知
