@@ -14,7 +14,7 @@ author_profile: true
     <td style="width: 35%; vertical-align: top;">
       <img src="/images/publication_rfearplus.jpg"
            alt="RF-Ear+"
-           style="width: 200px; max-width: 100%; float: left; margin-right: 12px;">
+           style="width: 220px; max-width: 100%; float: left; margin-right: 12px;">
     </td>
     <td style="width: 65%; vertical-align: top;">
       <strong>RF-Ear+</strong><br>
