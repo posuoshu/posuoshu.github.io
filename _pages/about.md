@@ -60,11 +60,11 @@ redirect_from:
 - 系统级的建模与部署优化
 
 **应用场景：**
-- 振动测量与工业故障识别：RF-Ear(INFOCOM 2020), RF-Ear+(TMC 2022), Vibro-Stethos(PerCom 2025), Wi-Ear(ICC 2023)
-- 轨迹追踪与行为分析: TagRay(INFOCOM 2020), Tamera(TOSN 2022), RFdesk(ICPADS 2019)
-- 位置无关的手势识别: RF-Eye(TOSN 2025)
-- 房间级呼吸状态监测: Wi
-- 音乐智能识别与辅助教学
+- 振动测量与工业故障识别: RF-Ear(INFOCOM'20), RF-Ear+(TMC'22), Vibro-Stethos(PerCom'25), Wi-Ear(ICC'23)
+- 轨迹追踪与行为分析: TagRay(INFOCOM'20), Tamera(TOSN'22), RFdesk(ICPADS'19)
+- 位置无关的手势识别: RF-Eye(TOSN'25)
+- 房间级呼吸状态监测: Wi-Cyclops(TOSN'25)
+- 音乐智能识别与辅助教学: RFDJ(MobiCom'19), RF-Recorder(MSN'19)
 
 ---
 
@@ -77,10 +77,9 @@ redirect_from:
 - 跨模态特征对齐与轻量级表示学习
 
 **应用场景：**
-- 睡眠状态检测与干预
-- 呼吸行为的身份识别
-- 疾病早期预警与辅助判断
-
+- 睡眠状态检测与干预: EarSleep(IMWUT'24)
+- 呼吸行为的身份识别: BreathSign(INFOCOM'23)
+- 疾病早期预警与辅助判断: NeuroChew(UbiComp/ISWC'25)
 
 
 ## 🏅 荣誉与奖励
