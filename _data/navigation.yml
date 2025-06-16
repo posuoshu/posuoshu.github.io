@@ -1,8 +1,7 @@
 main:
-  - title: "简介"
+  - title: "个人简介"
     url: "/about/"
   - title: "论文专利"
     url: "/publications/"
   - title: "项目经历"
     url: "/Project/"
-
