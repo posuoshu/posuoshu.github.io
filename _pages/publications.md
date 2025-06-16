@@ -11,10 +11,10 @@ author_profile: true
 
 <table>
   <tr>
-    <td style="width: 200px; vertical-align: top;">
-      <img src="/images/publication_rfearplus.jpg" alt="RF-Ear+" width="20%">
+    <td style="width: 30%; vertical-align: top;">
+      <img src="/images/publication_rfearplus.png" alt="RF-Ear+" style="width: 100%; max-width: 160px;">
     </td>
-    <td style="padding-left: 20px; vertical-align: top;">
+    <td style="width: 70%; padding-left: 20px; vertical-align: top;">
       <strong>RF-Ear+</strong><br>
       Yuanhao Feng, Youwei Zhang, Panlong Yang, Hao Zhou, Haohua Du, Xiang-Yang Li.<br>
       <em>IEEE Transactions on Mobile Computing (TMC), 2022</em><br>
@@ -25,6 +25,7 @@ author_profile: true
     </td>
   </tr>
 </table>
+
 
 
 
