@@ -17,7 +17,7 @@ author_profile: true
     <strong>RF-Ear+</strong><br>
     Yuanhao Feng, Youwei Zhang, Panlong Yang, Hao Zhou, Haohua Du, Xiang-Yang Li.<br>
     <em>IEEE Transactions on Mobile Computing (TMC), 2022</em><br>
-    <span style="font-size: 90%">
+    <span style="font-size: 20%">
       提出了一种基于 RFID 的无源振动识别系统，支持机械设备状态识别与故障诊断，实现工业现场的非接触智能监测。
     </span><br>
     🔗 <a href="https://doi.org/10.1109/TMC.2022.XXXXXX" target="_blank">论文链接</a>
