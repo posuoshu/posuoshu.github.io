@@ -60,10 +60,10 @@ redirect_from:
 - 系统级的建模与部署优化
 
 **应用场景：**
-- 振动测量与工业故障识别
-- 轨迹追踪与行为分析
-- 位置无关的手势识别
-- 房间级呼吸状态监测
+- 振动测量与工业故障识别：RF-Ear(INFOCOM 2020), RF-Ear+(TMC 2022), Vibro-Stethos(PerCom 2025), Wi-Ear(ICC 2023)
+- 轨迹追踪与行为分析: TagRay(INFOCOM 2020), Tamera(TOSN 2022), RFdesk(ICPADS 2019)
+- 位置无关的手势识别: RF-Eye(TOSN 2025)
+- 房间级呼吸状态监测: Wi
 - 音乐智能识别与辅助教学
 
 ---
