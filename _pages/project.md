@@ -1,11 +1,11 @@
 ---
 
 permalink: /project/
-title: "项目与资金"
+title: "项目经历"
 layout: single
 author_profile: true
 
----------------------
+---
 
 ## 💼 在研与已结题项目
 
