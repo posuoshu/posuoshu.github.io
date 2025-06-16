@@ -17,7 +17,7 @@ author_profile: true
            style="width: 250px; max-width: 100%; float: left; margin-right: 12px;">
     </td>
     <td style="width: 65%; vertical-align: top;">
-      <strong>RF-Ear+</strong><br>
+      <strong>RF-Ear+: A Mechanical Identification and Troubleshooting System based on Contactless Vibration Sensing</strong><br>
       <strong>Yuanhao Feng</strong>, Youwei Zhang, Panlong Yang, Hao Zhou, Haohua Du, Xiang-Yang Li.<br>
       <em>IEEE Transactions on Mobile Computing (TMC), 2022</em><br>
       <span style="font-size: 90%; color: #666;">CCF-A, 中科院分区 Q1</span><br>
