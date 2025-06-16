@@ -2,4 +2,4 @@ main:
   - title: "简介"
     url: "/zh-cn/#about-me"
   - title: "论文专利"
-    url: "/zh-cn/publications/"
+    url: "/publications/"
