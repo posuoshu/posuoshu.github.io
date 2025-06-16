@@ -32,8 +32,8 @@ redirect_from:
 <span class='anchor' id='-xl'></span>
 
 # 🎓 学历
-- *2016.06 - 2022.12*, <a href="https://www.hust.edu.cn/"><img class="svg" src="/images/HUST_logo.svg" width="23pt"></a> 华中科技大学 机械科学与工程学院, 湖北武汉, 推免直博 
-- *2012.09 - 2016.06*, <a href="https://www.scu.edu.cn/"><img class="svg" src="/images/SCU_logo.svg" width="20pt"></a> 四川大学 制造科学与工程学院, 四川成都, 本科
+- *2017.09 - 2023.06*, <a href="https://www.hust.edu.cn/"><img class="svg" src="/images/HUST_logo.svg" width="23pt"></a> 中国科学技术大学 计算机科学与技术学院, 安徽合肥, 硕博连读 
+- *2012.09 - 2016.06*, <a href="https://www.scu.edu.cn/"><img class="svg" src="/images/SCU_logo.svg" width="20pt"></a> 东北大学 信息与计算科学, 河北秦皇岛, 本科
  
 <span class='anchor' id='-lwzl'></span>
 
@@ -53,7 +53,7 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sens. Actuators Phys. 2021</div><img src='images/sna2021.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	`Jian Tang`, Rongbiao Wang, Bocheng Liu, Yihua Kang. A novel magnetic flux leakage method based on the ferromagnetic lift-off layer with through groove. *Sensors and Actuators A: Physical*. 2021: 113091. (JCR:Q1; IF:4.291)  
+-	Yuanhao Feng, Youwei Zhang, Panlong Yang, Hao Zhou, Haohua Du and Xiang-Yang Li. RF-Ear+: A Mechanical Identification and Troubleshooting System based on Contactless Vibration Sensing, IEEE Transactions on Mobile Computing (TMC), 2022.	(CCF-A, Q1，计算机网络顶刊)  
 [[网页]](https://dx.doi.org/10.1016/j.sna.2021.113091) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/TangJ-2021-A%20novel%20magnetic%20flux%20leakage%20method%20based%20on%20the%20ferromagnetic%20lift-off%20layer.pdf) [[下载]](/pdf/TangJ-2021-A%20novel%20magnetic%20flux%20leakage%20method%20based%20on%20the%20ferromagnetic%20lift-off%20layer.pdf)
 
 </div>
@@ -62,7 +62,7 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Int. J. Appl. Electrom. 2020</div><img src='images/ijaem2020.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	`Jian Tang`, Rongbiao Wang, Jikai Zhang, Yihua Kang. The influence of magnetic head’s pose on magnetic flux leakage detection. *International Journal of Applied Electromagnetics and Mechanics*. 2020, 64(1–4): 493–500. (JCR:Q4; IF:0.536)  
+-	Yuanhao Feng, Donghui Dai, Xiaopeng Zhao, Jingyu Tong, Zheng Gong and Lei Yang. Deciphering Nano-Scale, Sub-Hertz Mechanical Vibrations in Industry 4.0: A Battery-Free Sensing Approach, The 23rd International Conference on Pervasive Computing and Communications (PerCom 2025), 2025. (CCF-B,人机交互/普适计算旗舰会议)  
 [[网页]](https://dx.doi.org/10.3233/JAE-209356) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/TangJ-2020-The%20influence%20of%20magnetic%20head%E2%80%99s%20pose%20on%20magnetic%20flux%20leakage%20detection.pdf) [[下载]](/pdf/TangJ-2020-The%20influence%20of%20magnetic%20head%E2%80%99s%20pose%20on%20magnetic%20flux%20leakage%20detection.pdf)
 
 </div>
@@ -137,16 +137,8 @@ redirect_from:
 
 ### 专利
 ---
-- 康宜华, `唐健`. 一种基于铁磁性板的缺陷检测方法. [[网页]](https://cprs.patentstar.com.cn/Search/Detail?ANE=9IBC8DFA9GCB8DEA6FAA9HHFCICA1BAA9ACB9EGC9GAA6AAA)
+- 杨盘隆, 李向阳, 冯元浩. 一种能同时测量多个物体振动频率的非接触式系统及方法,已授权, CN201910406326. 2020-12-25. （已完成成果转化，人民币50万元）. [[网页]](https://cprs.patentstar.com.cn/Search/Detail?ANE=9IBC8DFA9GCB8DEA6FAA9HHFCICA1BAA9ACB9EGC9GAA6AAA)
 - 康宜华, `唐健`. 基于电磁原理的倒角测量装置.[[网页]](http://www.wanfangdata.com.cn/details/detail.do?_type=patent&id=CN201921137073.X)
-- 伍剑波, 王杰, 方辉, `唐健`. 一种钢管脉冲磁化漏磁探伤装置. [[网页]](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=SCPD&dbname=SCPD2016&filename=CN105334260A&v=) 
-- 伍剑波, `唐健`, 王杰, 方辉. 一种基于动生涡电流的金属管件电磁无损检测装置. [[网页]](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=SCPD&dbname=SCPD2016&filename=CN105510433A&v=) 
-- 刁燕, 陈敏, 王荣彪, `唐健`, 蒲廷燕, 都健. 一种基于绳体拉力传动的机械手. [[网页]](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=SCPD&dbname=SCPD2016&filename=CN105773598A&v=) 
-
-
-
-
-
 
 
 <span class='anchor' id='-ryjx'></span>
