@@ -1,15 +1,13 @@
 ---
-
 permalink: /
 title: "关于我"
 excerpt: ""
-author\_profile: true
-redirect\_from:
-
-* /about/
-* /about.html
-
+author_profile: true
+redirect_from:
+  - /about/
+  - /about.html
 ---
+
 
 <span class='anchor' id='about-me'></span>
 
