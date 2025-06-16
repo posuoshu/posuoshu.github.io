@@ -40,7 +40,7 @@ redirect\_from:
 ## 🧪 科研成果与项目
 
 请导航至顶部“论文专利”、“项目专利”页面查看完整清单，或访问：
-👉 [Google Scholar 引用页](https://scholar.google.com/citations?user=WMkMTb4AAAAJ)
+👉 [Google Scholar 引用页](https://scholar.google.com/citations?hl=zh-CN&user=bENA-F0AAAAJ)
 
 ## 🏅 荣誉与奖励
 
