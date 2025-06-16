@@ -50,21 +50,62 @@ CCF-A，计算机网络顶会（共同一作）
 
 ---
 
+### Demo: The RFID Can Hear Your Music Play  
+**Yuanhao Feng**, Panlong Yang, Yanyong Zhang, Xiang-Yang Li, Ziyang Chen, Gang Huang  
+*ACM MobiCom, Demo, 2019*  
+CCF-A，计算机网络顶会  
+展示了 RFID 标签如何通过解析振动信号“听见”音乐播放，实现非接触音乐识别的新应用场景。
+
 ### RF-Recorder: A Contactless Music Play Recording System Using COTS RFID  
 **Yuanhao Feng**, Panlong Yang, Ziyang Chen, Gang Huang, Yubo Yan, Xiang-Yang Li  
 *IEEE MSN 2019*  
 CCF-C  
 构建基于 RFID 的音乐播放记录系统，可感知并记录非接触音乐播放信号。
 
+---
 
 ## 🤝 合作作者论文（部分）
 
-1. Feiyu Han, Panlong Yang, **Yuanhao Feng**, Haohua Du, Xiang-Yang Li. Exploring Earable-based Passive User Authentication via Interpretable In-ear Breathing Biometrics. *IEEE TMC*, 2024.
-2. Feiyu Han, Panlong Yang, **Yuanhao Feng**, Weiwei Jiang, Youwei Zhang, Xiang-Yang Li. EarSleep: In-ear Acoustic-based Physical and Physiological Activity Recognition for Sleep Stage Detection. *IMWUT*, 2024.
-3. Feiyu Han, Panlong Yang, Shaojie Yan, Haohua Du, **Yuanhao Feng**. BreathSign: Transparent and Continuous In-ear Authentication Using Bone-conducted Breathing Biometrics. *IEEE INFOCOM*, 2023.
-4. X. Zhang, J. Huang, H. Yan, **Yuanhao Feng**, et al. WiOpen: A Robust Wi-Fi-based Open-set Gesture Recognition Framework. *IEEE THMS*, 2025.
-5. Jinyang Huang, Jia-Xuan Bai, Xiang Zhang, Zhi Liu, **Yuanhao Feng**, et al. Keystrokesniffer: An off-the-shelf smartphone can eavesdrop on your privacy. *IEEE TIFS*, 2024.
+- Feiyu Han, Panlong Yang, **Yuanhao Feng**, et al.  
+  *Interpretable In-ear Breathing Biometrics for Passive User Authentication*, IEEE TMC, 2024.  
+  <span style="font-size:90%; color: #666;">CCF-A</span>
 
+- Feiyu Han, Panlong Yang, **Yuanhao Feng**, et al.  
+  *EarSleep: In-ear Acoustic-based Sleep Stage Detection*, IMWUT, 2024.  
+  <span style="font-size:90%; color: #666;">CCF-A</span>
+
+- Feiyu Han, Panlong Yang, **Yuanhao Feng**, et al.  
+  *BreathSign: Bone-conducted In-ear Authentication*, INFOCOM, 2023.  
+  <span style="font-size:90%; color: #666;">CCF-A</span>
+
+- Xiang Zhang, Jinyang Huang, **Yuanhao Feng**, et al.  
+  *WiOpen: Wi-Fi-based Open-set Gesture Recognition*, IEEE THMS, 2025.  
+  <span style="font-size:90%; color: #666;">CCF-B</span>
+
+- Jinyang Huang, Jiaxuan Bai, Xiang Zhang, Zhi Liu, **Yuanhao Feng**, et al.  
+  *Keystrokesniffer: Smartphone-based Privacy Eavesdropping*, IEEE TIFS, 2024.  
+  <span style="font-size:90%; color: #666;">CCF-A</span>
+
+- Youwei Zhang, Panlong Yang, **Yuanhao Feng**, et al.  
+  *Wi-Ear: Contact-free Vibration Sensing via WiFi*, IEEE ICC, 2023.  
+  <span style="font-size:90%; color: #666;">CCF-C</span>
+
+- Panlong Yang, Jie Xiong, **Yuanhao Feng**, et al.  
+  *Tamera: Commodity RFID-based Behavior Recognition*, ACM TOSN, 2022.  
+  <span style="font-size:90%; color: #666;">CCF-B</span>
+
+- Youwei Zhang, Feiyu Han, **Yuanhao Feng**, et al.  
+  *Wi-Cyclops: Respiration Detection via WiFi*, ACM TOSN, 2022.  
+  <span style="font-size:90%; color: #666;">CCF-B</span>
+
+- Ziyang Chen, Panlong Yang, **Yuanhao Feng**, et al.  
+  *TagRay: Contactless Mobile Object Sensing*, INFOCOM, 2020.  
+  <span style="font-size:90%; color: #666;">CCF-A</span>
+
+- Ziyang Chen, Panlong Yang, **Yuanhao Feng**, et al.  
+  *RFdesk: Desktop Object Tracking via RFID*, ICPADS, 2019.  
+  <span style="font-size:90%; color: #666;">CCF-C</span>
+  
 ## 📄 授权专利
 
 1. 杨盘隆, 李向阳, 冯元浩. 一种能同时测量多个物体振动频率的非接触式系统及方法. 授权专利, CN201910406326. 授权时间：2020-12-25.（成果转化：50万元）
