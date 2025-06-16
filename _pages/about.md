@@ -3,8 +3,8 @@
 permalink: /
 title: "关于我"
 excerpt: "冯元浩博士的学术主页"
-author\_profile: true
-redirect\_from:
+author_profile: true
+redirect_from:
 
 - /about/
 - /about.html
