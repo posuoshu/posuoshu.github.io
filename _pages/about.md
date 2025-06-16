@@ -1,12 +1,13 @@
 ---
 permalink: /
 title: "关于我"
-excerpt: ""
+excerpt: "冯元浩博士的学术主页"
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
+
 
 
 <span class='anchor' id='about-me'></span>
