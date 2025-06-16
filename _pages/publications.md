@@ -34,7 +34,7 @@ author_profile: true
     <td style="width: 35%; vertical-align: top;">
       <img src="/images/publication_vibrostethos.jpg"
            alt="RF-Ear+"
-           style="min-width: 200px; height: auto; float: left; margin-right: 12px;">
+           style="min-width: 100px; height: auto; float: left; margin-right: 12px;">
     </td>
     <td style="width: 65%; vertical-align: top;">
       <strong>Yuanhao Feng</strong>, Donghui Dai, Xiaopeng Zhao, Jingyu Tong, Zheng Gong, Lei Yang.
