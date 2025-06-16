@@ -16,7 +16,6 @@ author_profile: true
       <img src="/images/publication_rfearplus.jpg" alt="RF-Ear+" style="width: 50%; max-width: 200px;">
     </td>
 
-    <!-- 右边文字，自动撑满剩余空间 -->
     <td style="width: 65%; padding-left: 15px; vertical-align: top;">
       <strong>RF-Ear+</strong><br>
       Yuanhao Feng, Youwei Zhang, Panlong Yang, Hao Zhou, Haohua Du, Xiang-Yang Li.<br>
