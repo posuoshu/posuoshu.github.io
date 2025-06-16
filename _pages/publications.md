@@ -51,6 +51,7 @@ Panlong Yang*, **Yuanhao Feng***, Jie Xiong, Ziyang Chen, Xiang-Yang Li
 CCF-A，计算机网络顶会（共同一作）  
 实现基于商用 RFID 的多设备振动感知与识别系统，具备低成本和易部署优势。
 🔗 [论文链接](https://ieeexplore.ieee.org/document/9904298)
+🔗 [演示视频（YouTube）](https://youtu.be/mAneBrHfut4)
 
 ---
 
@@ -60,6 +61,7 @@ CCF-A，计算机网络顶会（共同一作）
 CCF-A，计算机网络顶会  
 展示了 RFID 标签如何通过解析振动信号“听见”音乐播放，实现非接触音乐识别的新应用场景。
 🔗 [论文链接](https://dl.acm.org/doi/10.1145/3300061.3343379)
+🔗 [演示视频（YouTube）](https://youtu.be/ze8SaeHHX6s)
 
 ### RF-Recorder: A Contactless Music Play Recording System Using COTS RFID  
 **Yuanhao Feng**, Panlong Yang, Ziyang Chen, Gang Huang, Yubo Yan, Xiang-Yang Li  
@@ -67,6 +69,7 @@ CCF-A，计算机网络顶会
 CCF-C  
 构建基于 RFID 的音乐播放记录系统，可感知并记录非接触音乐播放信号。
 🔗 [论文链接](https://ieeexplore.ieee.org/document/9066021)
+🔗 [演示视频（YouTube）](https://youtu.be/OXcuCUbouEs)
 
 ---
 
@@ -103,10 +106,12 @@ CCF-C
 - Youwei Zhang, Feiyu Han, **Yuanhao Feng**, et al.  
   *Wi-Cyclops: Respiration Detection via WiFi*, ACM TOSN, 2022.  
   <span style="font-size:90%; color: #666;">CCF-B</span>
+    🔗 [演示视频（YouTube）](https://youtu.be/TKHOWfPebGA)
 
 - Ziyang Chen, Panlong Yang, **Yuanhao Feng**, et al.  
   *TagRay: Contactless Mobile Object Sensing*, INFOCOM, 2020.  
   <span style="font-size:90%; color: #666;">CCF-A</span>
+  🔗 [演示视频（YouTube）](https://youtu.be/xSIsXt9rgpU)
 
 - Ziyang Chen, Panlong Yang, **Yuanhao Feng**, et al.  
   *RFdesk: Desktop Object Tracking via RFID*, ICPADS, 2019.  
