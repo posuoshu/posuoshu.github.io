@@ -6,10 +6,11 @@ excerpt: "冯元浩博士的学术主页"
 author\_profile: true
 redirect\_from:
 
-* /about/
-* /about.html
+- /about/
+- /about.html
 
 ---
+
 
 <span class='anchor' id='about-me'></span>
 
