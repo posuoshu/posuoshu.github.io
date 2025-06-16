@@ -11,11 +11,9 @@ author_profile: true
 
 <table style="width: 100%; table-layout: fixed;">
   <tr>
-    <!-- 左边图片，最多占 35% 宽度 -->
     <td style="width: 35%; vertical-align: top;">
-      <img src="/images/publication_rfearplus.jpg" alt="RF-Ear+" style="width: 50%; max-width: 200px;">
+      <img src="/images/publication_rfearplus.jpg" alt="RF-Ear+" style="width: 100%; max-width: 200px;">
     </td>
-
     <td style="width: 65%; padding-left: 15px; vertical-align: top;">
       <strong>RF-Ear+</strong><br>
       Yuanhao Feng, Youwei Zhang, Panlong Yang, Hao Zhou, Haohua Du, Xiang-Yang Li.<br>
@@ -27,8 +25,6 @@ author_profile: true
     </td>
   </tr>
 </table>
-
-
 
 
 
