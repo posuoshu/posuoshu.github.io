@@ -42,7 +42,6 @@ CCF-B，Q2，无线传感器网络顶级期刊
 *UbiComp/ISWC Poster, 2025*  
 CCF-A，人机交互/普适计算旗舰会议  
 融合 EMG/EEG 等多模态生理信号，实现轻量级咀嚼行为识别与口腔健康监测。
-🔗 [论文链接](待上线)
 
 ---
 
@@ -60,14 +59,14 @@ CCF-A，计算机网络顶会（共同一作）
 *ACM MobiCom, Demo, 2019*  
 CCF-A，计算机网络顶会  
 展示了 RFID 标签如何通过解析振动信号“听见”音乐播放，实现非接触音乐识别的新应用场景。
-🔗 [论文链接](https://ieeexplore.ieee.org/document/9904298)
+🔗 [论文链接](https://dl.acm.org/doi/10.1145/3300061.3343379)
 
 ### RF-Recorder: A Contactless Music Play Recording System Using COTS RFID  
 **Yuanhao Feng**, Panlong Yang, Ziyang Chen, Gang Huang, Yubo Yan, Xiang-Yang Li  
 *IEEE MSN 2019*  
 CCF-C  
 构建基于 RFID 的音乐播放记录系统，可感知并记录非接触音乐播放信号。
-🔗 [论文链接](https://ieeexplore.ieee.org/document/9904298)
+🔗 [论文链接](https://ieeexplore.ieee.org/document/9066021)
 
 ---
 
