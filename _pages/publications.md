@@ -9,25 +9,52 @@ author_profile: true
 
 ## 📚 第一作者/共同一作论文
 
-📄 RF-Ear+: A Mechanical Identification and Troubleshooting System based on Contactless Vibration Sensing
+### RF-Ear+: A Mechanical Identification and Troubleshooting System based on Contactless Vibration Sensing  
+**Yuanhao Feng**, Youwei Zhang, Panlong Yang, Hao Zhou, Haohua Du, Xiang-Yang Li  
+*IEEE Transactions on Mobile Computing (TMC), 2022*  
+CCF-A, 中科院分区 Q1  
+提出了一种基于 RFID 的无源振动识别系统，支持机械设备状态识别与故障诊断，实现工业现场的非接触智能监测。  
+🔗 [论文链接](https://ieeexplore.ieee.org/document/9904298)
 
-Yuanhao Feng, Youwei Zhang, Panlong Yang, Hao Zhou, Haohua Du, Xiang-Yang LiIEEE Transactions on Mobile Computing (TMC), 2022CCF-A, 中科院分区 Q1提出了一种基于 RFID 的无源振动识别系统，支持机械设备状态识别与故障诊断，实现工业现场的非接触智能监测。🔗 论文链接
+---
 
-📄 Deciphering Nano-Scale, Sub-Hertz Mechanical Vibrations in Industry 4.0: A Battery-Free Sensing Approach
+### Deciphering Nano-Scale, Sub-Hertz Mechanical Vibrations in Industry 4.0: A Battery-Free Sensing Approach  
+**Yuanhao Feng**, Donghui Dai, Xiaopeng Zhao, Jingyu Tong, Zheng Gong, Lei Yang  
+*IEEE PerCom 2025*  
+CCF-B，人机交互/普适计算旗舰会议  
+提出了超低频纳米级机械振动感知方法，推动工业4.0中对微小振动的高精度监测技术。
 
-Yuanhao Feng, Donghui Dai, Xiaopeng Zhao, Jingyu Tong, Zheng Gong, Lei YangIEEE PerCom 2025CCF-B，人机交互/普适计算旗舰会议提出一种新型的低频微尺度振动感知方法，实现变压器等关键设备的无源健康监测。🔗 论文链接
+---
 
-📄 RF-Eye: Commodity RFID Can Know What You Write and Who You Are Wherever You Are
+### RF-Eye: Commodity RFID Can Know What You Write and Who You Are Wherever You Are  
+**Yuanhao Feng**, Jinyang Huang, Youwei Zhang, Xiang Zhang, Meng Li, Fusang Zhang, Zhi Liu  
+*ACM Transactions on Sensor Networks (TOSN), 2025*  
+CCF-B，Q2，无线传感器网络顶级期刊  
+基于 RFID 天线与书写手势之间的相互作用，提出无源身份和书写行为识别系统。
 
-Yuanhao Feng, Jinyang Huang, Youwei Zhang, Xiang Zhang, Meng Li, Fusang Zhang, Zhi LiuACM Transactions on Sensor Networks (TOSN), 2025CCF-B，Q2，无线传感器网络领域内顶级期刊提出了一种通过 RFID 信号检测书写行为和身份识别的系统，具有隐私感知与人机交互潜力。🔗 论文链接
+---
 
-📄 A Lightweight Edge-Centric Chewing Sensing System with Multimodal Biosignal Fusion for Oral Health Monitoring
+### A Lightweight Edge-Centric Chewing Sensing System with Multimodal Biosignal Fusion for Oral Health Monitoring  
+**Yuanhao Feng**, Youwei Zhang, Hao Zhou, Xiang Zhang, Zhi Liu  
+*UbiComp/ISWC Poster, 2025*  
+CCF-A，人机交互/普适计算旗舰会议  
+融合 EMG/EEG 等多模态生理信号，实现轻量级咀嚼行为识别与口腔健康监测。
 
-Yuanhao Feng, Youwei Zhang, Hao Zhou, Xiang Zhang, Zhi LiuUbiComp/ISWC Poster, 2025CCF-A，人机交互/普适计算顶会基于多模态生物信号，构建轻量级边缘化口腔健康检测系统，可识别非对称咀嚼等口腔异常行为。🔗 论文链接（待上线）
+---
 
-📄 RF-Ear: Contactless Multi-device Vibration Sensing and Identification Using COTS RFID
+### RF-Ear: Contactless Multi-device Vibration Sensing and Identification Using COTS RFID  
+Panlong Yang*, **Yuanhao Feng***, Jie Xiong, Ziyang Chen, Xiang-Yang Li  
+*IEEE INFOCOM 2020*  
+CCF-A，计算机网络顶会（共同一作）  
+实现基于商用 RFID 的多设备振动感知与识别系统，具备低成本和易部署优势。
 
-Panlong Yang*, Yuanhao Feng*, Jie Xiong, Ziyang Chen, Xiang-Yang LiIEEE INFOCOM, 2020CCF-A，计算机网络顶会（共同一作）首次提出利用 COTS RFID 进行多设备振动感知的系统，为后续非接触式传感奠定基础。🔗 论文链接
+---
+
+### RF-Recorder: A Contactless Music Play Recording System Using COTS RFID  
+**Yuanhao Feng**, Panlong Yang, Ziyang Chen, Gang Huang, Yubo Yan, Xiang-Yang Li  
+*IEEE MSN 2019*  
+CCF-C  
+构建基于 RFID 的音乐播放记录系统，可感知并记录非接触音乐播放信号。
 
 
 ## 🤝 合作作者论文（部分）
