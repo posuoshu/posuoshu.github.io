@@ -1,7 +1,4 @@
 # main links links
 main:
-  - title: "简介"
-    url: "/zh-cn/#about-me"
-
   - title: "论文专利"
-    url: "/publications/"
+    url: "{{ '/publications/' | relative_url }}"
