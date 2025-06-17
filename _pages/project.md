@@ -2,7 +2,6 @@
 
 permalink: /project/
 title: "项目经历"
-layout: single
 author_profile: true
 
 ---
