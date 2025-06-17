@@ -2,6 +2,7 @@
 
 permalink: /project/
 title: "项目经历"
+layout: home
 author_profile: true
 
 ---
