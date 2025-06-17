@@ -84,7 +84,8 @@ redirect_from:
 
 <span class='anchor' id='publications'></span>
 
-## 📚 第一作者/共同一作论文
+## 📚 论文专利
+### 第一作者/共同一作论文
 
 ### RF-Ear+: A Mechanical Identification and Troubleshooting System based on Contactless Vibration Sensing  
 **Yuanhao Feng**, Youwei Zhang, Panlong Yang, Hao Zhou, Haohua Du, Xiang-Yang Li  
