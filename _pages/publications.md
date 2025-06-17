@@ -2,7 +2,7 @@
 
 permalink: /publications/
 title: "论文与专利"
-layout: home
+layout: default
 author_profile: true
 
 ---
