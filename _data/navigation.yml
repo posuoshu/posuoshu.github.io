@@ -1,7 +1,9 @@
 main:
   - title: "个人简介"
-    url: "/about/"
+    url: "/#about-me"
   - title: "论文专利"
-    url: "/publications/"
+    url: "/#-lwzl"
   - title: "项目经历"
-    url: "/project/"
+    url: "/-project"
+  - title: "获奖与服务"
+    url: "/-honorservice"
