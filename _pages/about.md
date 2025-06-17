@@ -53,7 +53,7 @@ redirect_from:
 
 <span class='anchor' id='researchoverview'></span>
 
-## 🔬 科研概述
+## 🔬 研究概述
 
 ### 智能物联网与泛在感知应用研究
 
