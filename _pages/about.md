@@ -152,7 +152,7 @@ CCF-C
 
 ---
 
-## 🤝 合作作者论文（部分）
+### 🤝 合作作者论文（部分）
 
 - Feiyu Han, Panlong Yang, **Yuanhao Feng**, et al.  
   *Interpretable In-ear Breathing Biometrics for Passive User Authentication*, IEEE TMC, 2024.  
@@ -196,12 +196,12 @@ CCF-C
   *RFdesk: Desktop Object Tracking via RFID*, ICPADS, 2019.  
   <span style="font-size:90%; color: #666;">CCF-C</span>
   
-## 📄 授权专利
+### 📄 授权专利
 
 1. 杨盘隆, 李向阳, 冯元浩. 一种能同时测量多个物体振动频率的非接触式系统及方法. 授权专利, CN201910406326. 授权时间：2020-12-25.（成果转化：50万元）
 2. 李强, 冯元浩, 王震. 一种数据驱动的智能物联网平台工作流实现方法及其系统. 授权专利, No. 2021109743029. 授权时间：2021-08-24.
 
-## 📈 引用情况
+### 📈 引用情况
 
 请访问：[Google Scholar 引用页](https://scholar.google.com/citations?hl=zh-CN&user=bENA-F0AAAAJ) 查看引用详情与趋势。
 
