@@ -2,6 +2,7 @@
 
 permalink: /publications/
 title: "论文与专利"
+layout: home
 author_profile: true
 
 ---
