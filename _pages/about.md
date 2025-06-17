@@ -82,7 +82,7 @@ redirect_from:
 - 呼吸行为的身份识别: BreathSign(INFOCOM'23)
 - 疾病早期预警与辅助判断: NeuroChew(UbiComp/ISWC'25)
 
-<span class='anchor' id='-lwzl'></span>
+<span class='anchor' id='publications'></span>
 
 ## 📚 第一作者/共同一作论文
 
@@ -205,7 +205,7 @@ CCF-C
 
 请访问：[Google Scholar 引用页](https://scholar.google.com/citations?hl=zh-CN&user=bENA-F0AAAAJ) 查看引用详情与趋势。
 
-<span class='anchor' id='-project'></span>
+<span class='anchor' id='projects'></span>
 
 ## 💼 在研与已结题项目
 
@@ -249,7 +249,7 @@ CCF-C
    * 项目经费：225.94 万元
    * 项目角色：项目骨干
 
-<span class='anchor' id='-honorservice'></span>
+<span class='anchor' id='honorservice'></span>
 
 ## 🏅 荣誉与奖励
 
