@@ -22,9 +22,9 @@ redirect_from:
 
 冯博士还拥有丰富的**产学研协同经验**，曾在多家企业与科研机构担任研发职务，包括：
 
-- 2020/05 – 2020/09：阿里巴巴生活服务技术实验室（**数据分析师**，PI：何田，ACM/IEEE Fellow）  
-- 2020/10 – 2021/10：中国科学技术大学-德清阿尔法创新研究院（**系统架构师**，PI：张燕咏，IEEE Fellow）  
-- 2021/11 – 2022/01：京东探索研究院（**算法工程师**，PI：陶大程，IEEE/AAAS/ACM Fellow）
+- 2020/05 – 2020/09：阿里巴巴生活服务技术实验室（数据分析师，PI：**何田**，ACM/IEEE Fellow）  
+- 2020/10 – 2021/10：中国科学技术大学-德清阿尔法创新研究院（系统架构师，PI：**张燕咏**，IEEE Fellow）  
+- 2021/11 – 2022/01：京东探索研究院（算法工程师，PI：**陶大程**，IEEE/AAAS/ACM Fellow）
 
 目前，冯博士担任 **IEEE ISPA 2025 程序委员会共同主席**、**IEEE ComSoc MMTC 新闻编辑**、**ACM Multimedia 程序委员会成员**，积极参与国际学术社区建设。
 
@@ -132,7 +132,7 @@ CCF-B，Q2，无线传感器网络顶级期刊
 ### A Lightweight Edge-Centric Chewing Sensing System with Multimodal Biosignal Fusion for Oral Health Monitoring  
 **Yuanhao Feng**, Youwei Zhang, Hao Zhou, Xiang Zhang, Zhi Liu  
 *UbiComp/ISWC Poster, 2025*  
-CCF-A，人机交互/普适计算旗舰会议  
+CCF-A，人机交互/普适计算顶级会议  
 融合 EMG/EEG 等多模态生理信号，实现轻量级咀嚼行为识别与口腔健康监测。
 
 ---
@@ -232,11 +232,11 @@ CCF-C
    * 项目来源：中央高校基本科研业务费专项资金资助（情感计算与先进智能机器安徽省重点实验室）
    * 项目编号：PA2024GDSK0076
    * 经费：6 万元
-   * 项目角色：项目负责人（排名第 1）
+   * 项目角色：项目负责人（排名第 **1**）
 
-### 参与项目（骨干成员）
+### 参与项目
 
-2. **国家重点研发计划项目**（2018/07–2023/03，已结题）
+2. **国家重点研发计划项目**（2018/07–2023/03，已结题， 课题 1 学生负责人与实际执行者）
 
    * 项目名称：物联网与智慧城市安全保障关键技术研究
    * 所属课题：适应智慧城市与物联网安全目标的安全架构和应用示范
@@ -249,7 +249,7 @@ CCF-C
    * 项目名称：Dual-Channel Near-Field Identification Tags: Deep-Learning Reinforced Design and Electronic-Inks Powered Fabrication
    * 项目编号：ITS/099/21
    * 项目经费：49.99 万港币
-   * 项目角色：骨干成员
+   * 项目角色：项目骨干
 
 4. **广东电网联合项目**（2024/12–2027/03，在研）
 
