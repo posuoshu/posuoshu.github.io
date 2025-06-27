@@ -113,7 +113,7 @@ CCF-A, 中科院分区 Q1
 
 ### Deciphering Nano-Scale, Sub-Hertz Mechanical Vibrations in Industry 4.0: A Battery-Free Sensing Approach  
 **Yuanhao Feng**, Donghui Dai, Xiaopeng Zhao, Jingyu Tong, Zheng Gong, Lei Yang  
-*IEEE PerCom 2025*  
+*IEEE International Conference on Pervasive Computing and Communications （PerCom） 2025*  
 CCF-B，人机交互/普适计算旗舰会议  
 提出了超低频纳米级机械振动感知方法，推动工业4.0中对微小振动的高精度监测技术。
 🔗 [论文链接](https://ieeexplore.ieee.org/abstract/document/11018730)
@@ -131,7 +131,7 @@ CCF-B，Q2，无线传感器网络顶级期刊
 
 ### A Lightweight Edge-Centric Chewing Sensing System with Multimodal Biosignal Fusion for Oral Health Monitoring  
 **Yuanhao Feng**, Youwei Zhang, Hao Zhou, Xiang Zhang, Zhi Liu  
-*UbiComp/ISWC Poster, 2025*  
+*ACM international joint conference on Pervasive and Ubiquitous Computing (UbiComp/ISWC), Poster, 2025*  
 CCF-A，人机交互/普适计算顶级会议  
 融合 EMG/EEG 等多模态生理信号，实现轻量级咀嚼行为识别与口腔健康监测。
 
@@ -139,7 +139,7 @@ CCF-A，人机交互/普适计算顶级会议
 
 ### RF-Ear: Contactless Multi-device Vibration Sensing and Identification Using COTS RFID  
 Panlong Yang*, **Yuanhao Feng***, Jie Xiong, Ziyang Chen, Xiang-Yang Li  
-*IEEE INFOCOM 2020*  
+*IEEE International Conference on Computer Communications (INFOCOM) 2020*  
 CCF-A，计算机网络顶会（共同一作）  
 实现基于商用 RFID 的多设备振动感知与识别系统，具备低成本和易部署优势。
 🔗 [论文链接](https://ieeexplore.ieee.org/document/9904298)
@@ -149,7 +149,7 @@ CCF-A，计算机网络顶会（共同一作）
 
 ### Demo: The RFID Can Hear Your Music Play  
 **Yuanhao Feng**, Panlong Yang, Yanyong Zhang, Xiang-Yang Li, Ziyang Chen, Gang Huang  
-*ACM MobiCom, Demo, 2019*  
+*ACM International Conference on Mobile Computing and Networking (MobiCom), Demo, 2019*  
 CCF-A，计算机网络顶会  
 展示了 RFID 标签如何通过解析振动信号“听见”音乐播放，实现非接触音乐识别的新应用场景。
 🔗 [论文链接](https://dl.acm.org/doi/10.1145/3300061.3343379)
@@ -159,7 +159,7 @@ CCF-A，计算机网络顶会
 
 ### RF-Recorder: A Contactless Music Play Recording System Using COTS RFID  
 **Yuanhao Feng**, Panlong Yang, Ziyang Chen, Gang Huang, Yubo Yan, Xiang-Yang Li  
-*IEEE MSN 2019*  
+*IEEE International Conference on Mobility, Sensing and Networking (MSN) 2019*  
 CCF-C  
 构建基于 RFID 的音乐播放记录系统，可感知并记录非接触音乐播放信号。
 🔗 [论文链接](https://ieeexplore.ieee.org/document/9066021)
