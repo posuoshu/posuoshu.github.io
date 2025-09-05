@@ -103,7 +103,7 @@ redirect_from:
 
 
 ### Battery-Free Monitoring of Micron-Level Vibrations with Sub-Hertz Frequency Accuracy: Toward Robust and Accurate Industrial Sensing  
-**Yuanhao Feng**, Donghui Dai, Jinyang Huang, Panlong Yang, Xiang-Yang Li, Feiyu Han, Lei Yang
+**Yuanhao Feng**, Donghui Dai, Jinyang Huang, Panlong Yang, Xiang-Yang Li, Feiyu Han, Lei Yang  
 *IEEE Transactions on Mobile Computing (TMC), 2025*  
 CCF-A, 中科院分区 Q1  
 提出了一种基于无源标签的微米级振动监测技术， 用于变压器的故障监测。  
@@ -305,4 +305,5 @@ CCF-C
 * 📞 电话：+86 13865428283
 * 📍 地址：日本东京都调布市 小岛町1-1-1，UEC Port Lodge 210号室
 * 🔗 [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=bENA-F0AAAAJ) ｜ [GitHub](https://github.com/posuoshu) ｜ [ORCID](https://orcid.org/)
+
 
