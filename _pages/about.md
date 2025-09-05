@@ -101,6 +101,17 @@ redirect_from:
 ## 📚 论文专利
 ### 第一作者/共同一作论文
 
+
+### Battery-Free Monitoring of Micron-Level Vibrations with Sub-Hertz Frequency Accuracy: Toward Robust and Accurate Industrial Sensing  
+**Yuanhao Feng**, Donghui Dai, Jinyang Huang, Panlong Yang, Xiang-Yang Li, Feiyu Han, Lei Yang
+*IEEE Transactions on Mobile Computing (TMC), 2025*  
+CCF-A, 中科院分区 Q1  
+提出了一种基于无源标签的微米级振动监测技术， 用于变压器的故障监测。  
+🔗 [论文链接](TBD)
+
+
+---
+
 ### RF-Ear+: A Mechanical Identification and Troubleshooting System based on Contactless Vibration Sensing  
 **Yuanhao Feng**, Youwei Zhang, Panlong Yang, Hao Zhou, Haohua Du, Xiang-Yang Li  
 *IEEE Transactions on Mobile Computing (TMC), 2022*  
@@ -115,7 +126,7 @@ CCF-A, 中科院分区 Q1
 **Yuanhao Feng**, Donghui Dai, Xiaopeng Zhao, Jingyu Tong, Zheng Gong, Lei Yang  
 *IEEE International Conference on Pervasive Computing and Communications （PerCom） 2025*  
 CCF-B，人机交互/普适计算旗舰会议  
-提出了超低频纳米级机械振动感知方法，推动工业4.0中对微小振动的高精度监测技术。
+提出了纳米级机械振动感知方法，推动工业4.0中对微小振动的高精度监测技术。
 🔗 [论文链接](https://ieeexplore.ieee.org/abstract/document/11018730)
 
 ---
@@ -294,3 +305,4 @@ CCF-C
 * 📞 电话：+86 13865428283
 * 📍 地址：日本东京都调布市 小岛町1-1-1，UEC Port Lodge 210号室
 * 🔗 [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=bENA-F0AAAAJ) ｜ [GitHub](https://github.com/posuoshu) ｜ [ORCID](https://orcid.org/)
+
