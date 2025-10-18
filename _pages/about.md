@@ -291,7 +291,8 @@ CCF-C
 
 ## 📌 学术服务
 
-* IEEE ISPA 2025 程序委员会副主席
+* IEEE INFOCOM 2026 Workshop 宣传共同主席
+* IEEE ISPA 2025 程序委员会共同主席
 * IEEE MMTC 新闻编辑
 * ACM MM 2024 程序委员会成员
 * 安徽省人工智能学会情感计算专委会执行委员
@@ -305,5 +306,6 @@ CCF-C
 * 📞 电话：+86 13865428283
 * 📍 地址：日本东京都调布市 小岛町1-1-1，UEC Port Lodge 210号室
 * 🔗 [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=bENA-F0AAAAJ) ｜ [GitHub](https://github.com/posuoshu) ｜ [ORCID](https://orcid.org/)
+
 
 
