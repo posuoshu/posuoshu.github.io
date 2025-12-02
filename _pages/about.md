@@ -26,7 +26,7 @@ redirect_from:
 - 2020/10 – 2021/10：中国科学技术大学-德清阿尔法创新研究院（系统架构师，PI：**张燕咏**，IEEE Fellow）  
 - 2021/11 – 2022/01：京东探索研究院（算法工程师，PI：**陶大程**，IEEE/AAAS/ACM Fellow）
 
-目前，冯博士担任 **IEEE ISPA 2025 程序委员会共同主席**、**IEEE ComSoc MMTC 新闻编辑**、**ACM Multimedia 程序委员会成员**，积极参与国际学术社区建设。
+目前，冯博士担任 **IEEE INFOCOM 2026 WorkShop宣传主席**、**IEEE ISPA 2025 程序委员会共同主席**、**IEEE ComSoc 多媒体技术委员会（MMTC）通讯编辑**、**ACM Multimedia 程序委员会成员**，积极参与国际学术社区建设。
 
 
 📌 **个人主页**：  
@@ -281,6 +281,7 @@ CCF-C
 
 ## 🏅 荣誉与奖励
 
+* IEEE HITC杰出博士论文奖（2025）
 * 香港特别行政区创新科技署“研究人才”称号（2024）
 * 中国计算机学会科技创业大赛二等奖（2024）
 * 中国科学技术大学优秀毕业生（2023）
@@ -291,9 +292,9 @@ CCF-C
 
 ## 📌 学术服务
 
-* IEEE INFOCOM 2026 Workshop 宣传共同主席
+* IEEE INFOCOM 2026 Workshop 宣传主席
 * IEEE ISPA 2025 程序委员会共同主席
-* IEEE MMTC 新闻编辑
+* IEEE ComSoc 多媒体技术委员会（MMTC）通讯编辑
 * ACM MM 2024 程序委员会成员
 * 安徽省人工智能学会情感计算专委会执行委员
 * TMM, Globecom, TDSC, IOTJ, TOSN 等审稿人
@@ -306,6 +307,7 @@ CCF-C
 * 📞 电话：+86 13865428283
 * 📍 地址：日本东京都调布市 小岛町1-1-1，UEC Port Lodge 210号室
 * 🔗 [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=bENA-F0AAAAJ) ｜ [GitHub](https://github.com/posuoshu) ｜ [ORCID](https://orcid.org/)
+
 
 
 
