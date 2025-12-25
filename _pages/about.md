@@ -22,9 +22,9 @@ redirect_from:
 
 冯博士还拥有丰富的**产学研协同经验**，曾在多家企业与科研机构担任研发职务，包括：
 
-- 2020/05 – 2020/09：阿里巴巴生活服务技术实验室（数据分析师，PI：**何田**，ACM/IEEE Fellow）  
-- 2020/10 – 2021/10：中国科学技术大学-德清阿尔法创新研究院（系统架构师，PI：**张燕咏**，IEEE Fellow）  
-- 2021/11 – 2022/01：京东探索研究院（算法工程师，PI：**陶大程**，IEEE/AAAS/ACM Fellow）
+- 阿里巴巴生活服务技术实验室（数据分析师，PI：**何田**，ACM/IEEE Fellow）  
+- 中国科学技术大学-德清阿尔法创新研究院（系统架构师，PI：**张燕咏**，IEEE Fellow）  
+- 京东探索研究院（算法工程师，PI：**陶大程**，IEEE/AAAS/ACM Fellow）
 
 目前，冯博士担任 **IEEE INFOCOM 2026 WorkShop宣传主席**、**IEEE ISPA 2025 程序委员会共同主席**、**IEEE ComSoc 多媒体技术委员会（MMTC）通讯编辑**、**ACM Multimedia 程序委员会成员**，积极参与国际学术社区建设。
 
@@ -305,6 +305,7 @@ CCF-C
 * 📧 邮箱：[fyhace@mail.ustc.edu.cn](mailto:fyhace@mail.ustc.edu.cn)
 * 📍 地址：日本东京都调布市 电气通信大学
 * 🔗 [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=bENA-F0AAAAJ) ｜ [ORCID](https://orcid.org/)
+
 
 
 
