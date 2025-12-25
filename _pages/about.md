@@ -39,20 +39,19 @@ redirect_from:
 
 ## 🎓 教育经历
 
-- **2017.09 – 2023.06**  
+- **2017 – 2023**
   中国科学技术大学，计算机科学与技术，博士（硕博连读）  
   主导师：**李向阳** 教授（ACM/IEEE Fellow）｜辅导师：杨盘隆 教授
 
-- **2013.09 – 2017.06**  
+- **2013 – 2017**
   东北大学，信息与计算科学，学士  
-  绩点：**4.2353 / 4.5**，专业第 1 名
 
 ------------------------------------
 
 ## 💼 工作经历
 
 * **2025.04 – 至今**  日本电气通信大学，信息科学与工程学院，特任研究员
-* **2023.10 – 2025.03**  香港理工大学，电子计算学系，博士后（PI: 杨磊，港澳优青）
+* **2023.10 – 2025.03**  香港理工大学，电子计算学系，博士后研究员（PI: 杨磊，港澳优青）
 
 ------------------------------------
 
@@ -304,9 +303,9 @@ CCF-C
 ## 📍 联系方式
 
 * 📧 邮箱：[fyhace@mail.ustc.edu.cn](mailto:fyhace@mail.ustc.edu.cn)
-* 📞 电话：+86 13865428283
-* 📍 地址：日本东京都调布市 小岛町1-1-1，UEC Port Lodge 210号室
-* 🔗 [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=bENA-F0AAAAJ) ｜ [GitHub](https://github.com/posuoshu) ｜ [ORCID](https://orcid.org/)
+* 📍 地址：日本东京都调布市 电气通信大学
+* 🔗 [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=bENA-F0AAAAJ) ｜ [ORCID](https://orcid.org/)
+
 
 
 
