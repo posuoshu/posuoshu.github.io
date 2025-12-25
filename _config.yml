@@ -23,9 +23,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "冯元浩"
   avatar           : "images/avatar_small.jpg"
-  bio              : "中国科学技术大学"
-  location         : "安徽 合肥"
-  employer         : #"Hefei General Machinery Research Institute"
+  bio              : "电气通信大学"
+  location         : "日本 东京"
+  employer         : #"The University of Electro-Communications"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=bENA-F0AAAAJ"
   email            : "fyhace@mail.ustc.edu.cn"
@@ -161,3 +161,4 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
