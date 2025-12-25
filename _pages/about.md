@@ -52,7 +52,7 @@ redirect_from:
 ## 💼 工作经历
 
 * **2025 – 至今**  日本电气通信大学，信息科学与工程学院，特任研究员
-* **2023 – 2025  香港理工大学，电子计算学系，博士后研究员（PI: 杨磊，港澳优青）
+* **2023 – 2025**  香港理工大学，电子计算学系，博士后研究员（PI: 杨磊，港澳优青）
 
 ------------------------------------
 
@@ -306,6 +306,7 @@ CCF-C
 * 📧 邮箱：[fyhace@mail.ustc.edu.cn](mailto:fyhace@mail.ustc.edu.cn)
 * 📍 地址：日本东京都调布市 电气通信大学
 * 🔗 [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=bENA-F0AAAAJ) ｜ [ORCID](https://orcid.org/)
+
 
 
 
