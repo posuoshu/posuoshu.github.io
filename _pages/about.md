@@ -144,6 +144,7 @@ CCF-B，Q2，无线传感器网络顶级期刊
 *ACM international joint conference on Pervasive and Ubiquitous Computing (UbiComp/ISWC), Poster, 2025*  
 CCF-A，人机交互/普适计算顶级会议  
 融合 EMG/EEG 等多模态生理信号，实现轻量级咀嚼行为识别与口腔健康监测。
+🔗 [论文链接](https://dl.acm.org/doi/10.1145/3714394.3754381)
 
 ---
 
@@ -305,6 +306,7 @@ CCF-C
 * 📧 邮箱：[fyhace@mail.ustc.edu.cn](mailto:fyhace@mail.ustc.edu.cn)
 * 📍 地址：日本东京都调布市 电气通信大学
 * 🔗 [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=bENA-F0AAAAJ) ｜ [ORCID](https://orcid.org/)
+
 
 
 
