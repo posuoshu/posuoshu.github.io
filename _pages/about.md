@@ -39,19 +39,19 @@ redirect_from:
 
 ## 🎓 教育经历
 
-- 中国科学技术大学，计算机科学与技术，博士
+- 2017 - 2023  中国科学技术大学，计算机科学与技术，博士（硕博连读）
   
   主导师：**李向阳** 教授（ACM/IEEE Fellow）｜辅导师：杨盘隆 教授
 
-- 东北大学，信息与计算科学，学士  
+- 2013 - 2017  东北大学，信息与计算科学，学士  
 
 ------------------------------------
 
 ## 💼 工作经历
 
-* 日本电气通信大学，信息科学与工程学院，特任研究员
+* 2025 - present  日本电气通信大学，大学院情報理工学研究科，特任研究员
 
-* 香港理工大学，电子计算学系，博士后研究员（PI: 杨磊，港澳优青）
+* 2023 - 2025  香港理工大学，电子计算学系，博士后研究员（PI: 杨磊，港澳优青）
 
 ------------------------------------
 
@@ -100,6 +100,15 @@ redirect_from:
 ## 📚 论文专利
 ### 第一作者/共同一作论文
 
+### Battery-Free Monitoring of Micron-Level Vibrations with Sub-Hertz Frequency Accuracy: Toward Robust and Accurate Industrial Sensing  
+**Yuanhao Feng**, Feiyu Han, Zhixuan Liang, Panlong Yang and Xiang-Yang Li  
+*IEEE Journal on Selected Areas in Communications (JSAC), 2026*  
+CCF-A, 中科院分区 Q1  
+提出了一种基于毫米波的打印机窃听技术， 可以推断日常打印机的结构内容。  
+🔗 [论文链接](TBD)
+
+
+---
 
 ### Battery-Free Monitoring of Micron-Level Vibrations with Sub-Hertz Frequency Accuracy: Toward Robust and Accurate Industrial Sensing  
 **Yuanhao Feng**, Donghui Dai, Jinyang Huang, Panlong Yang, Xiang-Yang Li, Feiyu Han, Lei Yang  
