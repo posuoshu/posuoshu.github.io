@@ -100,12 +100,12 @@ redirect_from:
 ## 📚 论文专利
 ### 第一作者/共同一作论文
 
-### Battery-Free Monitoring of Micron-Level Vibrations with Sub-Hertz Frequency Accuracy: Toward Robust and Accurate Industrial Sensing  
+### VibraPrint: Exploiting Passive mmWave Sensing for Document Leakage from Commodity Printers  
 **Yuanhao Feng**, Feiyu Han, Zhixuan Liang, Panlong Yang and Xiang-Yang Li  
 *IEEE Journal on Selected Areas in Communications (JSAC), 2026*  
 CCF-A, 中科院分区 Q1  
 提出了一种基于毫米波的打印机窃听技术， 可以推断日常打印机的结构内容。  
-🔗 [论文链接](TBD)
+🔗 [论文链接](https://doi.org/10.1109/JSAC.2026.3670323)
 
 
 ---
@@ -115,7 +115,7 @@ CCF-A, 中科院分区 Q1
 *IEEE Transactions on Mobile Computing (TMC), 2025*  
 CCF-A, 中科院分区 Q1  
 提出了一种基于无源标签的微米级振动监测技术， 用于变压器的故障监测。  
-🔗 [论文链接](TBD)
+🔗 [论文链接](https://ieeexplore.ieee.org/document/11277407/)
 
 
 ---
