@@ -6,9 +6,6 @@ excerpt: "冯元浩博士的学术主页"
 author_profile: true
 redirect_from:
 
-- /about/
-- /about.html
-
 ---
 
 
