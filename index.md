@@ -344,14 +344,3 @@ CCF-C
 * 🔗 [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=bENA-F0AAAAJ) ｜ [ORCID](https://orcid.org/)
 
 
-
-
-
-
-
-
-
-
-
-
-<img width="418" height="694" alt="image" src="https://github.com/user-attachments/assets/2858d817-0ad6-4203-8760-23539e897740" />
