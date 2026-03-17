@@ -346,7 +346,7 @@ CCF-C
 
 ## 📍 联系方式
 
-* 📧 邮箱：[fyhace@mail.ustc.edu.cn](mailto:fyhace@mail.ustc.edu.cn)
+* 📧 邮箱：[fengyuanhao@uec.ac.jp](mailto:fengyuanhao@uec.ac.jp)
 * 📍 地址：日本东京都调布市 国立电气通信大学
 * 🔗 [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=bENA-F0AAAAJ) ｜ [ORCID](https://orcid.org/)
 
