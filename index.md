@@ -1,11 +1,5 @@
 <img width="435" height="19" alt="image" src="https://github.com/user-attachments/assets/a216eec2-a70a-4e1a-9ca5-7fe4201bf282" />---
 
-permalink: /
-title: "关于我"
-excerpt: "冯元浩博士的学术主页"
-author_profile: true
-redirect_from:
-
 ---
 
 
