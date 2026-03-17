@@ -93,52 +93,52 @@ redirect_from:
 
 ------------------------------------
 
-## 📚 论文专利
+## 📚 学术成果
 ### 第一作者/共同一作论文
 
-### VibraPrint: Exploiting Passive mmWave Sensing for Document Leakage from Commodity Printers  
-**Yuanhao Feng**, Feiyu Han, Zhixuan Liang, Panlong Yang and Xiang-Yang Li  
-*IEEE Journal on Selected Areas in Communications (JSAC), 2026*  
-CCF-A, 中科院分区 Q1  
+### VibraPrint: Exploiting Passive mmWave Sensing for Document Leakage from Commodity Printers
+**Yuanhao Feng**, Feiyu Han, Zhixuan Liang, Panlong Yang and Xiang-Yang Li
+*IEEE Journal on Selected Areas in Communications (JSAC), 2026*
+CCF-A｜中科院一区｜计算机网络顶刊
 提出了一种基于毫米波的打印机窃听技术， 可以推断日常打印机的结构内容。  
 🔗 [论文链接](https://doi.org/10.1109/JSAC.2026.3670323)
 
 
 ---
 
-### Battery-Free Monitoring of Micron-Level Vibrations with Sub-Hertz Frequency Accuracy: Toward Robust and Accurate Industrial Sensing  
-**Yuanhao Feng**, Donghui Dai, Jinyang Huang, Panlong Yang, Xiang-Yang Li, Feiyu Han, Lei Yang  
-*IEEE Transactions on Mobile Computing (TMC), 2025*  
-CCF-A, 中科院分区 Q1 
+### Battery-Free Monitoring of Micron-Level Vibrations with Sub-Hertz Frequency Accuracy: Toward Robust and Accurate Industrial Sensing
+**Yuanhao Feng**, Donghui Dai, Jinyang Huang, Panlong Yang, Xiang-Yang Li, Feiyu Han, Lei Yang
+*IEEE Transactions on Mobile Computing (TMC), 2025*
+CCF-A｜中科院一区｜计算机网络顶刊
 提出了一种基于无源标签的微米级振动监测技术， 用于变压器的故障监测。  
 🔗 [论文链接](https://ieeexplore.ieee.org/document/11277407/)
 
 
 ---
 
-### RF-Ear+: A Mechanical Identification and Troubleshooting System based on Contactless Vibration Sensing  
-**Yuanhao Feng**, Youwei Zhang, Panlong Yang, Hao Zhou, Haohua Du, Xiang-Yang Li  
-*IEEE Transactions on Mobile Computing (TMC), 2022*  
-CCF-A, 中科院分区 Q1  
+### RF-Ear+: A Mechanical Identification and Troubleshooting System based on Contactless Vibration Sensing
+**Yuanhao Feng**, Youwei Zhang, Panlong Yang, Hao Zhou, Haohua Du, Xiang-Yang Li
+*IEEE Transactions on Mobile Computing (TMC), 2022*
+CCF-A｜中科院一区｜计算机网络顶刊
 提出了一种基于 RFID 的无源振动识别系统，支持机械设备状态识别与故障诊断，实现工业现场的非接触智能监测。  
 🔗 [论文链接](https://ieeexplore.ieee.org/document/9904298)
 
 
 ---
 
-### Deciphering Nano-Scale, Sub-Hertz Mechanical Vibrations in Industry 4.0: A Battery-Free Sensing Approach  
-**Yuanhao Feng**, Donghui Dai, Xiaopeng Zhao, Jingyu Tong, Zheng Gong, Lei Yang  
-*IEEE International Conference on Pervasive Computing and Communications （PerCom） 2025*  
-CCF-B，人机交互/普适计算旗舰会议  
+### Deciphering Nano-Scale, Sub-Hertz Mechanical Vibrations in Industry 4.0: A Battery-Free Sensing Approach
+**Yuanhao Feng**, Donghui Dai, Xiaopeng Zhao, Jingyu Tong, Zheng Gong, Lei Yang
+*IEEE International Conference on Pervasive Computing and Communications (PerCom), 2025*
+CCF-B｜人机交互／普适计算旗舰会议 
 提出了纳米级机械振动感知方法，推动工业4.0中对微小振动的高精度监测技术。
 🔗 [论文链接](https://ieeexplore.ieee.org/abstract/document/11018730)
 
 ---
 
-### RF-Eye: Commodity RFID Can Know What You Write and Who You Are Wherever You Are  
-**Yuanhao Feng**, Jinyang Huang, Youwei Zhang, Xiang Zhang, Meng Li, Fusang Zhang, Zhi Liu  
-*ACM Transactions on Sensor Networks (TOSN), 2025*  
-CCF-B，Q2，无线传感器网络顶级期刊  
+### RF-Eye: Commodity RFID Can Know What You Write and Who You Are Wherever You Are
+**Yuanhao Feng**, Jinyang Huang, Youwei Zhang, Xiang Zhang, Meng Li, Fusang Zhang, Zhi Liu
+*ACM Transactions on Sensor Networks (TOSN), 2025*
+CCF-B｜中科院三区｜无线传感器网络顶级期刊 
 基于 RFID 天线与书写手势之间的相互作用，提出无源身份和书写行为识别系统。
 🔗 [论文链接](https://dl.acm.org/doi/abs/10.1145/3737701)
 
@@ -147,7 +147,7 @@ CCF-B，Q2，无线传感器网络顶级期刊
 ### Identifying Who You Are No Matter What You Write through Abstracting Handwriting Style
 Jinyang Huang*, **Yuanhao Feng***, Feng-Qi Cui*, Xiang Zhang, Zhi Liu, Xin Liu, Jianchun Liu, Fusang Zhang, Meng Li
 *IEEE Transactions on Dependable and Secure Computing (TDSC), 2026*
-CCF-A，网络与信息安全顶刊（共同一作）
+CCF-A｜中科院一区｜网络与信息安全顶刊（共同一作）
 提出一种与书写内容无关的手写风格抽象方法，实现跨场景的书写者身份识别。
 🔗 [论文链接](https://www.computer.org/csdl/journal/tq/5555/01/11417419/2ex64Fnc4RG)
 
@@ -156,35 +156,35 @@ CCF-A，网络与信息安全顶刊（共同一作）
 ### VibraHealth: Pervasive Health Sensing via Speech-Evoked Multimodal Biosignals
 **Yuanhao Feng**, Jinyang Huang, Zhi Liu
 *IEEE International Conference on Computer Communications (INFOCOM), Workshop, 2026*
-CCF-A，计算机网络顶会
+CCF-A｜计算机网络顶会
 利用语音诱发的多模态生物信号，实现泛在健康感知与监测。
 🔗 [论文链接]（TBD）
 
 ---
 
-### A Lightweight Edge-Centric Chewing Sensing System with Multimodal Biosignal Fusion for Oral Health Monitoring  
-**Yuanhao Feng**, Youwei Zhang, Hao Zhou, Xiang Zhang, Zhi Liu  
-*ACM international joint conference on Pervasive and Ubiquitous Computing (UbiComp/ISWC), Poster, 2025*  
-CCF-A，人机交互/普适计算顶级会议  
+### A Lightweight Edge-Centric Chewing Sensing System with Multimodal Biosignal Fusion for Oral Health Monitoring
+**Yuanhao Feng**, Youwei Zhang, Hao Zhou, Xiang Zhang, Zhi Liu
+*ACM International Joint Conference on Pervasive and Ubiquitous Computing (UbiComp/ISWC), Poster, 2025*
+CCF-A｜人机交互／普适计算旗舰会议
 融合 EMG/EEG 等多模态生理信号，实现轻量级咀嚼行为识别与口腔健康监测。
 🔗 [论文链接](https://dl.acm.org/doi/10.1145/3714394.3754381)
 
 ---
 
-### RF-Ear: Contactless Multi-device Vibration Sensing and Identification Using COTS RFID  
-Panlong Yang*, **Yuanhao Feng***, Jie Xiong, Ziyang Chen, Xiang-Yang Li  
-*IEEE International Conference on Computer Communications (INFOCOM) 2020*  
-CCF-A，计算机网络顶会（共同一作）  
+### RF-Ear: Contactless Multi-device Vibration Sensing and Identification Using COTS RFID
+Panlong Yang*, **Yuanhao Feng***, Jie Xiong, Ziyang Chen, Xiang-Yang Li
+*IEEE International Conference on Computer Communications (INFOCOM), 2020*
+CCF-A｜计算机网络顶会（共同一作）
 实现基于商用 RFID 的多设备振动感知与识别系统，具备低成本和易部署优势。
 🔗 [论文链接](https://ieeexplore.ieee.org/document/9155251)
 🔗 [演示视频（YouTube）](https://youtu.be/mAneBrHfut4)
 
 ---
 
-### Demo: The RFID Can Hear Your Music Play  
-**Yuanhao Feng**, Panlong Yang, Yanyong Zhang, Xiang-Yang Li, Ziyang Chen, Gang Huang  
-*ACM International Conference on Mobile Computing and Networking (MobiCom), Demo, 2019*  
-CCF-A，计算机网络顶会  
+### Demo: The RFID Can Hear Your Music Play
+**Yuanhao Feng**, Panlong Yang, Yanyong Zhang, Xiang-Yang Li, Ziyang Chen, Gang Huang
+*ACM International Conference on Mobile Computing and Networking (MobiCom), Demo, 2019*
+CCF-A｜计算机网络顶会
 展示了 RFID 标签如何通过解析振动信号“听见”音乐播放，实现非接触音乐识别的新应用场景。
 🔗 [论文链接](https://dl.acm.org/doi/10.1145/3300061.3343379)
 🔗 [演示视频（YouTube）](https://youtu.be/ze8SaeHHX6s)
