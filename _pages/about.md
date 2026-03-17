@@ -101,7 +101,7 @@ redirect_from:
 *IEEE Journal on Selected Areas in Communications (JSAC), 2026*
 CCF-A｜中科院一区｜计算机网络顶刊
 
-提出了一种基于毫米波的打印机窃听技术， 可以推断日常打印机的结构内容。  
+提出了一种基于毫米波的微振动窃听技术， 可以推断打印机的打印任务。  
 🔗 [论文链接](https://doi.org/10.1109/JSAC.2026.3670323)
 
 
