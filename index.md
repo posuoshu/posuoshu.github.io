@@ -11,7 +11,7 @@ author_profile: true
 
 冯元浩博士毕业于**中国科学技术大学**，师从**李向阳教授**（中国科学技术大学信息与智能学部执行院长，ACM/IEEE Fellow）。其研究方向聚焦于 **AIoT（智能感知、具身智能、移动计算与可穿戴计算）**，致力于探索感知技术在**工业智能与人体健康**领域的创新应用，已在国际顶级会议与期刊（包括 IEEE JSAC / TMC / TDSC / INFOCOM / PERCOM，ACM IMWUT / TOSN 等）发表学术论文 **20 余篇**。
 
-在系统研究层面，冯博士提出了基于 **RFID 的无源振动感知系统**，突破了传统传感器在**能耗、安全性与部署灵活性**方面的固有局限，已在**南方电网、山东电工**等工业场景中完成实地部署并取得显著经济效益，代表性成果 **"RF-Ear"** 实现专利转化收益 **50 万元**。在科研项目方面，冯博士主持或参与了**国家重点研发计划**、**南方电网联合项目**、**安徽省重点实验室专项**等多项课题，并获**香港创新科技署（ITF）"研究人才"**资助。此外，冯博士还获得**日本学术振兴会（JSPS）若手研究**资助，主持开展面向工业设备预测性维护的无源无线振动感知研究（2026–2028）。
+在系统研究层面，冯博士提出了基于 **RFID 的无源振动感知系统**，突破了传统传感器在**能耗、安全性与部署灵活性**方面的固有局限，已在**南方电网、山东电工**等工业场景中完成实地部署并取得显著经济效益，代表性成果 **"RF-Ear"** 实现专利转化收益 **50 万元**。在科研项目方面，冯博士主持或参与了**国家重点研发计划**、**南方电网联合项目**、**安徽省重点实验室专项**等多项课题，并获**香港创新科技署（ITF）"研究人才"**资助。此外，冯博士还获得**日本学术振兴会（JSPS）若手研究**资助，主持开展面向工业设备预测性维护的无源无线振动感知研究。
 
 在产学研协同方面，冯博士曾先后在以下机构担任研发职务：
 
@@ -87,122 +87,95 @@ author_profile: true
 ------------------------------------
 
 ## 📚 学术成果
+<p style="font-size: 0.9em; color: #666;">*注：下文中蓝色加粗为本人姓名，星号(*)代表共同第一作者</p>
+
 ### 第一作者/共同一作论文
 
-### VibraPrint: Exploiting Passive mmWave Sensing for Document Leakage from Commodity Printers
-**Yuanhao Feng**, Feiyu Han, Zhixuan Liang, Panlong Yang and Xiang-Yang Li
-*IEEE Journal on Selected Areas in Communications (JSAC), 2026*
-CCF-A｜中科院一区｜计算机网络顶刊
-
-提出了一种基于毫米波的微振动窃听技术， 可以推断打印机的打印任务。  
-🔗 [论文链接](https://doi.org/10.1109/JSAC.2026.3670323)
-
+### [JSAC] VibraPrint: Exploiting Passive mmWave Sensing for Document Leakage from Commodity Printers
+<span style="color: #2e6c9c; font-weight: bold;">Yuanhao Feng</span>, Feiyu Han, Zhixuan Liang, Panlong Yang and Xiang-Yang Li
+*IEEE Journal on Selected Areas in Communications, 2026*
+<span style="background-color: #e1f5fe; color: #01579b; padding: 2px 8px; border-radius: 4px; font-size: 0.8em;">CCF-A</span> <span style="background-color: #fff3e0; color: #e65100; padding: 2px 8px; border-radius: 4px; font-size: 0.8em;">中科院一区</span>
+🔗 [Paper](https://doi.org/10.1109/JSAC.2026.3670323)
 
 ---
 
-### Battery-Free Monitoring of Micron-Level Vibrations with Sub-Hertz Frequency Accuracy: Toward Robust and Accurate Industrial Sensing
-**Yuanhao Feng**, Donghui Dai, Jinyang Huang, Panlong Yang, Xiang-Yang Li, Feiyu Han, Lei Yang
-*IEEE Transactions on Mobile Computing (TMC), 2025*
-CCF-A｜中科院一区｜计算机网络顶刊
-
-提出了一种基于无源标签的微米级振动监测技术， 用于变压器的故障监测。  
-🔗 [论文链接](https://ieeexplore.ieee.org/document/11277407/)
-
+### [TMC] Battery-Free Monitoring of Micron-Level Vibrations with Sub-Hertz Frequency Accuracy: Toward Robust and Accurate Industrial Sensing
+<span style="color: #2e6c9c; font-weight: bold;">Yuanhao Feng</span>, Donghui Dai, Jinyang Huang, Panlong Yang, Xiang-Yang Li, et al.
+*IEEE Transactions on Mobile Computing, 2025*
+<span style="background-color: #e1f5fe; color: #01579b; padding: 2px 8px; border-radius: 4px; font-size: 0.8em;">CCF-A</span> <span style="background-color: #fff3e0; color: #e65100; padding: 2px 8px; border-radius: 4px; font-size: 0.8em;">中科院一区</span>
+🔗 [Paper](https://ieeexplore.ieee.org/document/11277407/)
 
 ---
 
-### RF-Ear+: A Mechanical Identification and Troubleshooting System based on Contactless Vibration Sensing
-**Yuanhao Feng**, Youwei Zhang, Panlong Yang, Hao Zhou, Haohua Du, Xiang-Yang Li
-*IEEE Transactions on Mobile Computing (TMC), 2022*
-CCF-A｜中科院一区｜计算机网络顶刊
-
-提出了一种基于 RFID 的无源振动识别系统，支持机械设备状态识别与故障诊断，实现工业现场的非接触智能监测。  
-🔗 [论文链接](https://ieeexplore.ieee.org/document/9904298)
-
+### [TMC] RF-Ear+: A Mechanical Identification and Troubleshooting System based on Contactless Vibration Sensing
+<span style="color: #2e6c9c; font-weight: bold;">Yuanhao Feng</span>, Youwei Zhang, Panlong Yang, Hao Zhou, Haohua Du, Xiang-Yang Li
+*IEEE Transactions on Mobile Computing, 2022*
+<span style="background-color: #e1f5fe; color: #01579b; padding: 2px 8px; border-radius: 4px; font-size: 0.8em;">CCF-A</span> <span style="background-color: #fff3e0; color: #e65100; padding: 2px 8px; border-radius: 4px; font-size: 0.8em;">中科院一区</span>
+🔗 [Paper](https://ieeexplore.ieee.org/document/9904298)
 
 ---
 
-### Deciphering Nano-Scale, Sub-Hertz Mechanical Vibrations in Industry 4.0: A Battery-Free Sensing Approach
-**Yuanhao Feng**, Donghui Dai, Xiaopeng Zhao, Jingyu Tong, Zheng Gong, Lei Yang
-*IEEE International Conference on Pervasive Computing and Communications (PerCom), 2025*
-CCF-B｜人机交互／普适计算旗舰会议 
-
-提出了纳米级机械振动感知方法，推动工业4.0中对微小振动的高精度监测技术。
-🔗 [论文链接](https://ieeexplore.ieee.org/abstract/document/11018730)
+### [PerCom] Deciphering Nano-Scale, Sub-Hertz Mechanical Vibrations in Industry 4.0: A Battery-Free Sensing Approach
+<span style="color: #2e6c9c; font-weight: bold;">Yuanhao Feng</span>, Donghui Dai, Xiaopeng Zhao, Jingyu Tong, Zheng Gong, Lei Yang
+*IEEE International Conference on Pervasive Computing and Communications, 2025*
+<span style="background-color: #f3e5f5; color: #7b1fa2; padding: 2px 8px; border-radius: 4px; font-size: 0.8em;">CCF-B</span> <span style="background-color: #fffde7; color: #f57f17; padding: 2px 8px; border-radius: 4px; font-size: 0.8em;">Flagship Conf</span>
+🔗 [Paper](https://ieeexplore.ieee.org/abstract/document/11018730)
 
 ---
 
-### RF-Eye: Commodity RFID Can Know What You Write and Who You Are Wherever You Are
-**Yuanhao Feng**, Jinyang Huang, Youwei Zhang, Xiang Zhang, Meng Li, Fusang Zhang, Zhi Liu
-*ACM Transactions on Sensor Networks (TOSN), 2025*
-CCF-B｜中科院三区｜无线传感器网络顶级期刊 
-
-基于 RFID 天线与书写手势之间的相互作用，提出无源身份和书写行为识别系统。
-🔗 [论文链接](https://dl.acm.org/doi/abs/10.1145/3737701)
+### [TOSN] RF-Eye: Commodity RFID Can Know What You Write and Who You Are Wherever You Are
+<span style="color: #2e6c9c; font-weight: bold;">Yuanhao Feng</span>, Jinyang Huang, Youwei Zhang, Xiang Zhang, Meng Li, Fusang Zhang, Zhi Liu
+*ACM Transactions on Sensor Networks, 2025*
+<span style="background-color: #f3e5f5; color: #7b1fa2; padding: 2px 8px; border-radius: 4px; font-size: 0.8em;">CCF-B</span> <span style="background-color: #fff3e0; color: #e65100; padding: 2px 8px; border-radius: 4px; font-size: 0.8em;">中科院三区</span>
+🔗 [Paper](https://dl.acm.org/doi/abs/10.1145/3737701)
 
 ---
 
-### Identifying Who You Are No Matter What You Write through Abstracting Handwriting Style
-Jinyang Huang*, **Yuanhao Feng***, Feng-Qi Cui*, Xiang Zhang, Zhi Liu, Xin Liu, Jianchun Liu, Fusang Zhang, Meng Li
-*IEEE Transactions on Dependable and Secure Computing (TDSC), 2026*
-CCF-A｜中科院一区｜网络与信息安全顶刊（共同一作）
-
-提出一种与书写内容无关的手写风格抽象方法，实现跨场景的书写者身份识别。
-🔗 [论文链接](https://www.computer.org/csdl/journal/tq/5555/01/11417419/2ex64Fnc4RG)
+### [TDSC] Identifying Who You Are No Matter What You Write through Abstracting Handwriting Style
+Jinyang Huang\*, <span style="color: #2e6c9c; font-weight: bold;">Yuanhao Feng\*</span>, Feng-Qi Cui\*, Xiang Zhang, Zhi Liu, Xin Liu, Jianchun Liu, Fusang Zhang, Meng Li
+*IEEE Transactions on Dependable and Secure Computing, 2026*
+<span style="background-color: #e1f5fe; color: #01579b; padding: 2px 8px; border-radius: 4px; font-size: 0.8em;">CCF-A</span> <span style="background-color: #fff3e0; color: #e65100; padding: 2px 8px; border-radius: 4px; font-size: 0.8em;">中科院一区</span>
+🔗 [Paper](https://www.computer.org/csdl/journal/tq/5555/01/11417419/2ex64Fnc4RG)
 
 ---
 
-### VibraHealth: Pervasive Health Sensing via Speech-Evoked Multimodal Biosignals
-**Yuanhao Feng**, Jinyang Huang, Zhi Liu
-*IEEE International Conference on Computer Communications (INFOCOM), Workshop, 2026*
-CCF-A｜计算机网络顶会
-
-利用语音诱发的多模态生物信号，实现泛在健康感知与监测。
-🔗 [论文链接]（TBD）
+### [INFOCOM] VibraHealth: Pervasive Health Sensing via Speech-Evoked Multimodal Biosignals
+<span style="color: #2e6c9c; font-weight: bold;">Yuanhao Feng</span>, Jinyang Huang, Zhi Liu
+*IEEE INFOCOM Workshop, 2026*
+<span style="background-color: #e1f5fe; color: #01579b; padding: 2px 8px; border-radius: 4px; font-size: 0.8em;">CCF-A</span> <span style="background-color: #ffebee; color: #c62828; padding: 2px 8px; border-radius: 4px; font-size: 0.8em;">Top Conference</span>
+🔗 Paper (TBD)
 
 ---
 
-### A Lightweight Edge-Centric Chewing Sensing System with Multimodal Biosignal Fusion for Oral Health Monitoring
-**Yuanhao Feng**, Youwei Zhang, Hao Zhou, Xiang Zhang, Zhi Liu
-*ACM International Joint Conference on Pervasive and Ubiquitous Computing (UbiComp/ISWC), Poster, 2025*
-CCF-A｜人机交互／普适计算旗舰会议
-
-融合 EMG/EEG 等多模态生理信号，实现轻量级咀嚼行为识别与口腔健康监测。
-🔗 [论文链接](https://dl.acm.org/doi/10.1145/3714394.3754381)
+### [UbiComp] A Lightweight Edge-Centric Chewing Sensing System with Multimodal Biosignal Fusion for Oral Health Monitoring
+<span style="color: #2e6c9c; font-weight: bold;">Yuanhao Feng</span>, Youwei Zhang, Hao Zhou, Xiang Zhang, Zhi Liu
+*ACM UbiComp/ISWC, Poster, 2025*
+<span style="background-color: #e1f5fe; color: #01579b; padding: 2px 8px; border-radius: 4px; font-size: 0.8em;">CCF-A</span> <span style="background-color: #ffebee; color: #c62828; padding: 2px 8px; border-radius: 4px; font-size: 0.8em;">Top Conference</span>
+🔗 [Paper](https://dl.acm.org/doi/10.1145/3714394.3754381)
 
 ---
 
-### RF-Ear: Contactless Multi-device Vibration Sensing and Identification Using COTS RFID
-Panlong Yang*, **Yuanhao Feng***, Jie Xiong, Ziyang Chen, Xiang-Yang Li
-*IEEE International Conference on Computer Communications (INFOCOM), 2020*
-CCF-A｜计算机网络顶会（共同一作）
-
-实现基于商用 RFID 的多设备振动感知与识别系统，具备低成本和易部署优势。
-🔗 [论文链接](https://ieeexplore.ieee.org/document/9155251)
-🔗 [演示视频（YouTube）](https://youtu.be/mAneBrHfut4)
+### [INFOCOM] RF-Ear: Contactless Multi-device Vibration Sensing and Identification Using COTS RFID
+Panlong Yang\*, <span style="color: #2e6c9c; font-weight: bold;">Yuanhao Feng\*</span>, Jie Xiong, Ziyang Chen, Xiang-Yang Li
+*IEEE INFOCOM, 2020*
+<span style="background-color: #e1f5fe; color: #01579b; padding: 2px 8px; border-radius: 4px; font-size: 0.8em;">CCF-A</span> <span style="background-color: #ffebee; color: #c62828; padding: 2px 8px; border-radius: 4px; font-size: 0.8em;">Top Conference</span>
+🔗 [Paper](https://ieeexplore.ieee.org/document/9155251) ｜ 🎬 [Video](https://youtu.be/mAneBrHfut4)
 
 ---
 
-### Demo: The RFID Can Hear Your Music Play
-**Yuanhao Feng**, Panlong Yang, Yanyong Zhang, Xiang-Yang Li, Ziyang Chen, Gang Huang
-*ACM International Conference on Mobile Computing and Networking (MobiCom), Demo, 2019*
-CCF-A｜计算机网络顶会
-
-展示了 RFID 标签如何通过解析振动信号“听见”音乐播放，实现非接触音乐识别的新应用场景。
-🔗 [论文链接](https://dl.acm.org/doi/10.1145/3300061.3343379)
-🔗 [演示视频（YouTube）](https://youtu.be/ze8SaeHHX6s)
+### [MobiCom] Demo: The RFID Can Hear Your Music Play
+<span style="color: #2e6c9c; font-weight: bold;">Yuanhao Feng</span>, Panlong Yang, Yanyong Zhang, Xiang-Yang Li, Ziyang Chen, Gang Huang
+*ACM MobiCom, Demo, 2019*
+<span style="background-color: #e1f5fe; color: #01579b; padding: 2px 8px; border-radius: 4px; font-size: 0.8em;">CCF-A</span> <span style="background-color: #ffebee; color: #c62828; padding: 2px 8px; border-radius: 4px; font-size: 0.8em;">Top Conference</span>
+🔗 [Paper](https://dl.acm.org/doi/10.1145/3300061.3343379) ｜ 🎬 [Video](https://youtu.be/ze8SaeHHX6s)
 
 ---
 
-### RF-Recorder: A Contactless Music Play Recording System Using COTS RFID  
-**Yuanhao Feng**, Panlong Yang, Ziyang Chen, Gang Huang, Yubo Yan, Xiang-Yang Li  
-*IEEE International Conference on Mobility, Sensing and Networking (MSN) 2019*  
-CCF-C  
-
-构建基于 RFID 的音乐播放记录系统，可感知并记录非接触音乐播放信号。
-🔗 [论文链接](https://ieeexplore.ieee.org/document/9066021)
-🔗 [演示视频（YouTube）](https://youtu.be/OXcuCUbouEs)
-
+### [MSN] RF-Recorder: A Contactless Music Play Recording System Using COTS RFID
+<span style="color: #2e6c9c; font-weight: bold;">Yuanhao Feng</span>, Panlong Yang, Ziyang Chen, Gang Huang, Yubo Yan, Xiang-Yang Li
+*IEEE MSN, 2019*
+<span style="background-color: #eeeeee; color: #424242; padding: 2px 8px; border-radius: 4px; font-size: 0.8em;">CCF-C</span>
+🔗 [Paper](https://ieeexplore.ieee.org/document/9066021) ｜ 🎬 [Video](https://youtu.be/OXcuCUbouEs)
 ---
 
 ### 🤝 合作作者论文（部分）
@@ -264,7 +237,7 @@ CCF-C
 
    * 项目名称：Battery-Free Wireless Sensing for Predictive Vibration Monitoring of Industrial Equipment
    * 项目来源：日本学术振兴会（JSPS）
-   * 项目总经费：280 万日元（直接经费）
+   * 项目总经费：400 万日元（直接经费）
    * 本人角色：项目负责人（PI）
    * 研究内容：面向工业设备预测性维护需求，研究基于无源无线标签的高精度振动感知方法，探索微弱振动信号的物理建模、特征提取与异常诊断机制，旨在构建低成本、免维护的工业设备健康监测系统
 
@@ -314,15 +287,15 @@ CCF-C
 
 ## 🏅 荣誉与奖励
 
-* IEEE HITC杰出博士论文奖（2025）
-* 香港特别行政区创新科技署"研究人才"称号（2024）
-* 中国计算机学会科技创业大赛二等奖（2024）
-* 中国科学技术大学优秀毕业生（2023）
-* 环球数码科技奖学金（2022）
-* 中科大苏州工业园区奖学金（2020）
-* 中国宋庆龄基金会·中芯国际孟宁奖学金（2019）
-* 中科大一等奖学金（2018–2023，多次）
-* 国家奖学金（2014）、国家励志奖学金（2015–2016）
+*🏆 IEEE HITC杰出博士论文奖（2025）
+*🏆 香港特别行政区创新科技署"研究人才"称号（2024）
+*🏆 中国计算机学会科技创业大赛二等奖（2024）
+*🏆 中国科学技术大学优秀毕业生（2023）
+*🏆 环球数码科技奖学金（2022）
+*🏆 中科大苏州工业园区奖学金（2020）
+*🏆 中国宋庆龄基金会·中芯国际孟宁奖学金（2019）
+*🏆 中科大一等奖学金（2018–2023，多次）
+*🏆 国家奖学金（2014）、国家励志奖学金（2015–2016）
 
 ------------------------------------
 
