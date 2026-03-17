@@ -1,4 +1,4 @@
----
+<img width="435" height="19" alt="image" src="https://github.com/user-attachments/assets/a216eec2-a70a-4e1a-9ca5-7fe4201bf282" />---
 
 permalink: /
 title: "关于我"
@@ -16,7 +16,7 @@ redirect_from:
 
 ## 👨‍💼 个人简介
 
-冯元浩博士毕业于**中国科学技术大学**，师从**李向阳教授**（中国科大信息科学技术学院执行院长，ACM/IEEE Fellow）。他长期从事 **AIoT（智能感知、具身智能、移动计算与可穿戴计算）** 方向的研究，聚焦感知技术在**工业智能与人体健康**领域的创新应用，已在国际顶级会议与期刊（包括 *IEEE INFOCOM*、*IEEE TMC*、*IEEE PerCom*、*ACM IMWUT*、*ACM TOSN* 等）发表论文 **20 余篇**。
+冯元浩博士毕业于**中国科学技术大学**，师从**李向阳教授**（中国科学技术大学信息与智能学部执行院长，ACM/IEEE Fellow）。他长期从事 **AIoT（智能感知、具身智能、移动计算与可穿戴计算）** 方向的研究，聚焦感知技术在**工业智能与人体健康**领域的创新应用，已在国际顶级会议与期刊（包括 IEEE JSAC / TMC / TDSC / INFOCOM / PERCOM, ACM IMWUT / TOSN 等 等）发表论文 **20 余篇**。
 
 他提出的基于 **RFID 的无源振动感知系统**，突破了传统传感器在**能耗、安全性与部署灵活性**方面的限制，已在**南方电网、山东电工**等实际场景中成功部署，创造**显著经济效益**。其中代表性成果 **“RF-Ear” 实现专利转化收益达 50 万元**。他主持或参与 **国家重点研发计划**、**南方电网联合项目**、**安徽省重点实验室专项**等多项科研任务，并获**香港创新科技署（ITF）“研究人才”资助**。
 
@@ -148,6 +148,24 @@ CCF-B，Q2，无线传感器网络顶级期刊
 
 ---
 
+### Identifying Who You Are No Matter What You Write through Abstracting Handwriting Style
+Jinyang Huang*, **Yuanhao Feng***, Feng-Qi Cui*, Xiang Zhang, Zhi Liu, Xin Liu, Jianchun Liu, Fusang Zhang, Meng Li
+*IEEE Transactions on Dependable and Secure Computing (TDSC), 2026*
+CCF-A，网络与信息安全顶刊（共同一作）
+提出一种与书写内容无关的手写风格抽象方法，实现跨场景的书写者身份识别。
+🔗 [论文链接](https://www.computer.org/csdl/journal/tq/5555/01/11417419/2ex64Fnc4RG)
+
+---
+
+### VibraHealth: Pervasive Health Sensing via Speech-Evoked Multimodal Biosignals
+**Yuanhao Feng**, Jinyang Huang, Zhi Liu
+*IEEE International Conference on Computer Communications (INFOCOM), Workshop, 2026*
+CCF-A，计算机网络顶会
+利用语音诱发的多模态生物信号，实现泛在健康感知与监测。
+🔗 [论文链接]（TBD）
+
+---
+
 ### A Lightweight Edge-Centric Chewing Sensing System with Multimodal Biosignal Fusion for Oral Health Monitoring  
 **Yuanhao Feng**, Youwei Zhang, Hao Zhou, Xiang Zhang, Zhi Liu  
 *ACM international joint conference on Pervasive and Ubiquitous Computing (UbiComp/ISWC), Poster, 2025*  
@@ -162,7 +180,7 @@ Panlong Yang*, **Yuanhao Feng***, Jie Xiong, Ziyang Chen, Xiang-Yang Li
 *IEEE International Conference on Computer Communications (INFOCOM) 2020*  
 CCF-A，计算机网络顶会（共同一作）  
 实现基于商用 RFID 的多设备振动感知与识别系统，具备低成本和易部署优势。
-🔗 [论文链接](https://ieeexplore.ieee.org/document/9904298)
+🔗 [论文链接](https://ieeexplore.ieee.org/document/9155251)
 🔗 [演示视频（YouTube）](https://youtu.be/mAneBrHfut4)
 
 ---
@@ -200,10 +218,6 @@ CCF-C
 - Feiyu Han, Panlong Yang, **Yuanhao Feng**, et al.  
   *BreathSign: Bone-conducted In-ear Authentication*, INFOCOM, 2023.  
   <span style="font-size:90%; color: #666;">CCF-A</span>
-
-- Xiang Zhang, Jinyang Huang, **Yuanhao Feng**, et al.  
-  *WiOpen: Wi-Fi-based Open-set Gesture Recognition*, IEEE THMS, 2025.  
-  <span style="font-size:90%; color: #666;">CCF-B</span>
 
 - Jinyang Huang, Jiaxuan Bai, Xiang Zhang, Zhi Liu, **Yuanhao Feng**, et al.  
   *Keystrokesniffer: Smartphone-based Privacy Eavesdropping*, IEEE TIFS, 2024.  
@@ -246,7 +260,13 @@ CCF-C
 
 ### 主持项目
 
-1. **安徽省重点自主创新专项** （2024/01–2025/12）
+1. **日本学术振兴会 (JSPS) 科学研究费助成事业 - 若手研究** (2026/04 - 2028/03)（主持，在研）
+*项目名称： Battery-Free Wireless Sensing for Predictive Vibration Monitoring of Industrial Equipment
+*项目来源： 日本学术振兴会 (JSPS)
+*项目总经费： 280 万日元（直接经费）
+*本人角色： 项目负责人 (PI)
+
+2. **安徽省重点自主创新专项** （2024/01–2025/12，已结题）
 
    * 项目名称：基于耳戴设备的表情识别和情绪分析研究
    * 项目来源：中央高校基本科研业务费专项资金资助（情感计算与先进智能机器安徽省重点实验室）
@@ -256,7 +276,7 @@ CCF-C
 
 ### 参与项目
 
-2. **国家重点研发计划项目**（2018/07–2023/03，已结题， 课题 1 学生负责人与实际执行者）
+3. **国家重点研发计划项目**（2018/07–2023/03，已结题， 课题 1 学生负责人与实际执行者）
 
    * 项目名称：物联网与智慧城市安全保障关键技术研究
    * 所属课题：适应智慧城市与物联网安全目标的安全架构和应用示范
@@ -264,21 +284,21 @@ CCF-C
    * 项目总经费：600 万元
    * 项目来源：工业和信息化部产业发展促进中心
 
-3. **香港特别行政区创新科技署“研究人才计划”项目**（2023/08–2024/09，已结题）
+4. **香港特别行政区创新科技署“研究人才计划”项目**（2023/08–2024/09，已结题）
 
    * 项目名称：Dual-Channel Near-Field Identification Tags: Deep-Learning Reinforced Design and Electronic-Inks Powered Fabrication
    * 项目编号：ITS/099/21
    * 项目经费：49.99 万港币
    * 项目角色：项目骨干
 
-4. **广东电网联合项目**（2024/12–2027/03，在研）
+5. **广东电网联合项目**（2024/12–2027/03，在研）
 
    * 项目名称：基于无源传感和通信感知一体化的变压器状态感知与评估系统
    * 项目编号：GDKJXM20231537
    * 项目经费：520 万元
    * 项目角色：项目骨干
 
-5. **广西电网联合项目**（2024/10–2026/10，在研）
+6. **广西电网联合项目**（2024/10–2026/10，在研）
 
    * 项目名称：接地网腐蚀状态数字孪生技术研究（课题 1：无线感知技术研究）
    * 项目经费：225.94 万元
@@ -291,9 +311,12 @@ CCF-C
 ## 🏅 荣誉与奖励
 
 * IEEE HITC杰出博士论文奖（2025）
-* 香港特别行政区创新科技署“研究人才”称号（2024）
+* 香港特别行政区创新科技署"研究人才"称号（2024）
 * 中国计算机学会科技创业大赛二等奖（2024）
 * 中国科学技术大学优秀毕业生（2023）
+* 环球数码科技奖学金（2022）
+* 中科大苏州工业园区奖学金（2020）
+* 中国宋庆龄基金会·中芯国际孟宁奖学金（2019）
 * 中科大一等奖学金（2018–2023，多次）
 * 国家奖学金（2014）、国家励志奖学金（2015–2016）
 
@@ -313,7 +336,7 @@ CCF-C
 ## 📍 联系方式
 
 * 📧 邮箱：[fyhace@mail.ustc.edu.cn](mailto:fyhace@mail.ustc.edu.cn)
-* 📍 地址：日本东京都调布市 电气通信大学
+* 📍 地址：日本东京都调布市 国立电气通信大学
 * 🔗 [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=bENA-F0AAAAJ) ｜ [ORCID](https://orcid.org/)
 
 
