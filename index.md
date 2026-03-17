@@ -15,7 +15,7 @@ author_profile: true
 
 在产学研协同方面，冯博士曾先后在以下机构担任研发职务：
 
-- **阿里巴巴生活服务技术实验室**，数据分析师（PI：何田，ACM/IEEE Fellow）
+- **阿里巴巴本地生活研究院**，数据分析师（PI：何田，ACM/IEEE Fellow）
 - **中国科学技术大学-德清阿尔法创新研究院**，系统架构师（PI：张燕咏，IEEE Fellow）
 - **京东探索研究院**，算法工程师（PI：陶大程，IEEE/AAAS/ACM Fellow）
 
