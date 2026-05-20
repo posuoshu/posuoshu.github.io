@@ -91,6 +91,14 @@ author_profile: true
 
 ### 第一作者/共同一作论文
 
+### [IMWUT] VibraGlot: Contactless Vocal Disorder Screening via mmWave Neck-Surface Vibration Sensing
+<span style="color: #2e6c9c; font-weight: bold;">Yuanhao Feng</span>, Zhi Liu.
+*Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, 2026*
+<span style="background-color: #e1f5fe; color: #01579b; padding: 2px 8px; border-radius: 4px; font-size: 0.8em;">CCF-A</span> <span style="background-color: #ffebee; color: #c62828; padding: 2px 8px; border-radius: 4px; font-size: 0.8em;">Top Journal</span>
+🔗 [Paper](TBD)
+
+---
+
 ### [JSAC] VibraPrint: Exploiting Passive mmWave Sensing for Document Leakage from Commodity Printers
 <span style="color: #2e6c9c; font-weight: bold;">Yuanhao Feng</span>, Feiyu Han, Zhixuan Liang, Panlong Yang and Xiang-Yang Li.
 *IEEE Journal on Selected Areas in Communications, 2026*
