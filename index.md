@@ -86,112 +86,158 @@ author_profile: true
 
 ------------------------------------
 
-## 📚 学术成果
-<p style="font-size: 0.9em; color: #666;">*注：下文中蓝色加粗为本人姓名，星号(*)代表共同第一作者</p>
+## 📚 代表性学术成果
 
-### 第一作者/共同一作/共同通讯论文
+<p style="font-size: 0.9em; color: #666;">
+* <span style="color: #2e6c9c; font-weight: bold;">Blue bold names</span> indicate my name.<br>
+* Equal contribution; † Corresponding author.
+</p>
+
+---
+
+<h3>First-author / Corresponding-author Full Papers</h3>
 
 ### [IMWUT] VibraGlot: Contactless Vocal Disorder Screening via mmWave Neck-Surface Vibration Sensing
 <span style="color: #2e6c9c; font-weight: bold;">Yuanhao Feng</span>, Zhi Liu.
-*Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, 2026*
-<span style="background-color: #e1f5fe; color: #01579b; padding: 2px 8px; border-radius: 4px; font-size: 0.8em;">CCF-A</span> <span style="background-color: #ffebee; color: #c62828; padding: 2px 8px; border-radius: 4px; font-size: 0.8em;">Top Journal</span>
-🔗 [Paper](TBD)
+<i>Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT), 2026</i><br>
+
+<span style="background-color: #e1f5fe; color: #01579b; padding: 2px 8px; border-radius: 4px; font-size: 0.8em;">CCF-A</span>
+<span style="background-color: #ffebee; color: #c62828; padding: 2px 8px; border-radius: 4px; font-size: 0.8em;">Full Paper</span>
+
+🔗 Paper (TBD)
 
 ---
 
 ### [JSAC] VibraPrint: Exploiting Passive mmWave Sensing for Document Leakage from Commodity Printers
-<span style="color: #2e6c9c; font-weight: bold;">Yuanhao Feng</span>, Feiyu Han, Zhixuan Liang, Panlong Yang and Xiang-Yang Li.
-*IEEE Journal on Selected Areas in Communications, 2026*
-<span style="background-color: #e1f5fe; color: #01579b; padding: 2px 8px; border-radius: 4px; font-size: 0.8em;">CCF-A</span> <span style="background-color: #fff3e0; color: #e65100; padding: 2px 8px; border-radius: 4px; font-size: 0.8em;">中科院一区</span>
-🔗 [Paper](https://doi.org/10.1109/JSAC.2026.3670323)
+<span style="color: #2e6c9c; font-weight: bold;">Yuanhao Feng</span>, Feiyu Han, Zhixuan Liang, Panlong Yang, Xiang-Yang Li.
+<i>IEEE Journal on Selected Areas in Communications (JSAC), 2026</i><br>
+
+<span style="background-color: #e1f5fe; color: #01579b; padding: 2px 8px; border-radius: 4px; font-size: 0.8em;">CCF-A</span>
+<span style="background-color: #fff3e0; color: #e65100; padding: 2px 8px; border-radius: 4px; font-size: 0.8em;">一区</span>
+
+🔗 <a href="https://doi.org/10.1109/JSAC.2026.3670323">Paper</a>
 
 ---
 
 ### [TMC] Battery-Free Monitoring of Micron-Level Vibrations with Sub-Hertz Frequency Accuracy: Toward Robust and Accurate Industrial Sensing
 <span style="color: #2e6c9c; font-weight: bold;">Yuanhao Feng</span>, Donghui Dai, Jinyang Huang, Panlong Yang, Xiang-Yang Li, et al.
-*IEEE Transactions on Mobile Computing, 2025*
-<span style="background-color: #e1f5fe; color: #01579b; padding: 2px 8px; border-radius: 4px; font-size: 0.8em;">CCF-A</span> <span style="background-color: #fff3e0; color: #e65100; padding: 2px 8px; border-radius: 4px; font-size: 0.8em;">中科院一区</span>
-🔗 [Paper](https://ieeexplore.ieee.org/document/11277407/)
+<i>IEEE Transactions on Mobile Computing (TMC), 2025</i><br>
 
----
+<span style="background-color: #e1f5fe; color: #01579b; padding: 2px 8px; border-radius: 4px; font-size: 0.8em;">CCF-A</span>
+<span style="background-color: #fff3e0; color: #e65100; padding: 2px 8px; border-radius: 4px; font-size: 0.8em;">一区</span>
 
-### [TMC] RF-Ear+: A Mechanical Identification and Troubleshooting System based on Contactless Vibration Sensing
-<span style="color: #2e6c9c; font-weight: bold;">Yuanhao Feng</span>, Youwei Zhang, Panlong Yang, Hao Zhou, Haohua Du, Xiang-Yang Li.
-*IEEE Transactions on Mobile Computing, 2022*
-<span style="background-color: #e1f5fe; color: #01579b; padding: 2px 8px; border-radius: 4px; font-size: 0.8em;">CCF-A</span> <span style="background-color: #fff3e0; color: #e65100; padding: 2px 8px; border-radius: 4px; font-size: 0.8em;">中科院一区</span>
-🔗 [Paper](https://ieeexplore.ieee.org/document/9904298)
+🔗 <a href="https://ieeexplore.ieee.org/document/11277407/">Paper</a>
 
 ---
 
 ### [PerCom] Deciphering Nano-Scale, Sub-Hertz Mechanical Vibrations in Industry 4.0: A Battery-Free Sensing Approach
 <span style="color: #2e6c9c; font-weight: bold;">Yuanhao Feng</span>, Donghui Dai, Xiaopeng Zhao, Jingyu Tong, Zheng Gong, Lei Yang.
-*IEEE International Conference on Pervasive Computing and Communications, 2025*
-<span style="background-color: #f3e5f5; color: #7b1fa2; padding: 2px 8px; border-radius: 4px; font-size: 0.8em;">CCF-B</span> <span style="background-color: #fffde7; color: #f57f17; padding: 2px 8px; border-radius: 4px; font-size: 0.8em;">Flagship Conf</span>
-🔗 [Paper](https://ieeexplore.ieee.org/abstract/document/11018730)
+<i>IEEE International Conference on Pervasive Computing and Communications (PerCom), 2025</i><br>
+
+<span style="background-color: #f3e5f5; color: #7b1fa2; padding: 2px 8px; border-radius: 4px; font-size: 0.8em;">CCF-B</span>
+<span style="background-color: #fffde7; color: #f57f17; padding: 2px 8px; border-radius: 4px; font-size: 0.8em;">Flagship Conference</span>
+
+🔗 <a href="https://ieeexplore.ieee.org/abstract/document/11018730">Paper</a>
 
 ---
 
 ### [TOSN] RF-Eye: Commodity RFID Can Know What You Write and Who You Are Wherever You Are
 <span style="color: #2e6c9c; font-weight: bold;">Yuanhao Feng</span>, Jinyang Huang, Youwei Zhang, Xiang Zhang, Meng Li, Fusang Zhang, Zhi Liu.
-*ACM Transactions on Sensor Networks, 2025*
-<span style="background-color: #f3e5f5; color: #7b1fa2; padding: 2px 8px; border-radius: 4px; font-size: 0.8em;">CCF-B</span> <span style="background-color: #fff3e0; color: #e65100; padding: 2px 8px; border-radius: 4px; font-size: 0.8em;"></span>
-🔗 [Paper](https://dl.acm.org/doi/abs/10.1145/3737701)
+<i>ACM Transactions on Sensor Networks (TOSN), 2025</i><br>
+
+<span style="background-color: #f3e5f5; color: #7b1fa2; padding: 2px 8px; border-radius: 4px; font-size: 0.8em;">CCF-B</span>
+
+🔗 <a href="https://dl.acm.org/doi/abs/10.1145/3737701">Paper</a>
 
 ---
 
-### [IMWUT] Exploring and Addressing Low-Quality Auxiliary Modality in Earable Dual-microphone Speech Enhancement
-Feiyu Han, Dawei Yan, Shanyue Wang, Jinyang Huang, <span style="color: #2e6c9c; font-weight: bold;">Yuanhao Feng\*</span>, Panlong Yang\*.
-*Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, 2026*
-<span style="background-color: #e1f5fe; color: #01579b; padding: 2px 8px; border-radius: 4px; font-size: 0.8em;">CCF-A</span> <span style="background-color: #ffebee; color: #c62828; padding: 2px 8px; border-radius: 4px; font-size: 0.8em;">Top Journal</span>
-🔗 [Paper](TBD)
+### [TMC] RF-Ear+: A Mechanical Identification and Troubleshooting System based on Contactless Vibration Sensing
+<span style="color: #2e6c9c; font-weight: bold;">Yuanhao Feng</span>, Youwei Zhang, Panlong Yang, Hao Zhou, Haohua Du, Xiang-Yang Li.
+<i>IEEE Transactions on Mobile Computing (TMC), 2022</i><br>
 
----
+<span style="background-color: #e1f5fe; color: #01579b; padding: 2px 8px; border-radius: 4px; font-size: 0.8em;">CCF-A</span>
+<span style="background-color: #fff3e0; color: #e65100; padding: 2px 8px; border-radius: 4px; font-size: 0.8em;">一区</span>
 
-### [TDSC] Identifying Who You Are No Matter What You Write through Abstracting Handwriting Style
-Jinyang Huang\*, <span style="color: #2e6c9c; font-weight: bold;">Yuanhao Feng\*</span>, Feng-Qi Cui\*, Xiang Zhang, Zhi Liu, Xin Liu, Jianchun Liu, Fusang Zhang, Meng Li.
-*IEEE Transactions on Dependable and Secure Computing, 2026*
-<span style="background-color: #e1f5fe; color: #01579b; padding: 2px 8px; border-radius: 4px; font-size: 0.8em;">CCF-A</span> <span style="background-color: #fff3e0; color: #e65100; padding: 2px 8px; border-radius: 4px; font-size: 0.8em;">中科院一区</span>
-🔗 [Paper](https://www.computer.org/csdl/journal/tq/5555/01/11417419/2ex64Fnc4RG)
-
----
-
-### [INFOCOM] VibraHealth: Pervasive Health Sensing via Speech-Evoked Multimodal Biosignals
-<span style="color: #2e6c9c; font-weight: bold;">Yuanhao Feng</span>, Jinyang Huang, Zhi Liu.
-*IEEE INFOCOM Workshop, 2026*
-<span style="background-color: #e1f5fe; color: #01579b; padding: 2px 8px; border-radius: 4px; font-size: 0.8em;">CCF-A</span> <span style="background-color: #ffebee; color: #c62828; padding: 2px 8px; border-radius: 4px; font-size: 0.8em;">Top Conference</span>
-🔗 Paper (TBD)
-
----
-
-### [UbiComp] A Lightweight Edge-Centric Chewing Sensing System with Multimodal Biosignal Fusion for Oral Health Monitoring
-<span style="color: #2e6c9c; font-weight: bold;">Yuanhao Feng</span>, Youwei Zhang, Hao Zhou, Xiang Zhang, Zhi Liu.
-*ACM UbiComp/ISWC, Poster, 2025*
-<span style="background-color: #e1f5fe; color: #01579b; padding: 2px 8px; border-radius: 4px; font-size: 0.8em;">CCF-A</span> <span style="background-color: #ffebee; color: #c62828; padding: 2px 8px; border-radius: 4px; font-size: 0.8em;">Top Conference</span>
-🔗 [Paper](https://dl.acm.org/doi/10.1145/3714394.3754381)
+🔗 <a href="https://ieeexplore.ieee.org/document/9904298">Paper</a>
 
 ---
 
 ### [INFOCOM] RF-Ear: Contactless Multi-device Vibration Sensing and Identification Using COTS RFID
-Panlong Yang\*, <span style="color: #2e6c9c; font-weight: bold;">Yuanhao Feng\*</span>, Jie Xiong, Ziyang Chen, Xiang-Yang Li.
-*IEEE INFOCOM, 2020*
-<span style="background-color: #e1f5fe; color: #01579b; padding: 2px 8px; border-radius: 4px; font-size: 0.8em;">CCF-A</span> <span style="background-color: #ffebee; color: #c62828; padding: 2px 8px; border-radius: 4px; font-size: 0.8em;">Top Conference</span>
-🔗 [Paper](https://ieeexplore.ieee.org/document/9155251) ｜ 🎬 [Video](https://youtu.be/mAneBrHfut4)
+Panlong Yang, <span style="color: #2e6c9c; font-weight: bold;">Yuanhao Feng</span>, Jie Xiong, Ziyang Chen, Xiang-Yang Li.
+<i>IEEE INFOCOM, 2020</i><br>
 
----
+<span style="background-color: #e1f5fe; color: #01579b; padding: 2px 8px; border-radius: 4px; font-size: 0.8em;">CCF-A</span>
 
-### [MobiCom] Demo: The RFID Can Hear Your Music Play
-<span style="color: #2e6c9c; font-weight: bold;">Yuanhao Feng</span>, Panlong Yang, Yanyong Zhang, Xiang-Yang Li, Ziyang Chen, Gang Huang.
-*ACM MobiCom, Demo, 2019*
-<span style="background-color: #e1f5fe; color: #01579b; padding: 2px 8px; border-radius: 4px; font-size: 0.8em;">CCF-A</span> <span style="background-color: #ffebee; color: #c62828; padding: 2px 8px; border-radius: 4px; font-size: 0.8em;">Top Conference</span>
-🔗 [Paper](https://dl.acm.org/doi/10.1145/3300061.3343379) ｜ 🎬 [Video](https://youtu.be/ze8SaeHHX6s)
+🔗 <a href="https://ieeexplore.ieee.org/document/9155251">Paper</a> ｜ 
+🎬 <a href="https://youtu.be/mAneBrHfut4">Video</a>
 
 ---
 
 ### [MSN] RF-Recorder: A Contactless Music Play Recording System Using COTS RFID
 <span style="color: #2e6c9c; font-weight: bold;">Yuanhao Feng</span>, Panlong Yang, Ziyang Chen, Gang Huang, Yubo Yan, Xiang-Yang Li.
-*IEEE MSN, 2019*
+<i>IEEE MSN, 2019</i><br>
+
 <span style="background-color: #eeeeee; color: #424242; padding: 2px 8px; border-radius: 4px; font-size: 0.8em;">CCF-C</span>
-🔗 [Paper](https://ieeexplore.ieee.org/document/9066021) ｜ 🎬 [Video](https://youtu.be/OXcuCUbouEs)
+
+🔗 <a href="https://ieeexplore.ieee.org/document/9066021">Paper</a> ｜ 
+🎬 <a href="https://youtu.be/OXcuCUbouEs">Video</a>
+
+---
+
+<h3>Equal-contribution Full Papers</h3>
+
+### [IMWUT] Exploring and Addressing Low-Quality Auxiliary Modality in Earable Dual-microphone Speech Enhancement
+Feiyu Han, Dawei Yan, Shanyue Wang, Jinyang Huang, <span style="color: #2e6c9c; font-weight: bold;">Yuanhao Feng†</span>, Panlong Yang†.
+<i>Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT), 2026</i><br>
+
+<span style="background-color: #e1f5fe; color: #01579b; padding: 2px 8px; border-radius: 4px; font-size: 0.8em;">CCF-A</span>
+<span style="background-color: #ffebee; color: #c62828; padding: 2px 8px; border-radius: 4px; font-size: 0.8em;">Full Paper</span>
+
+🔗 Paper (TBD)
+
+---
+
+### [TDSC] Identifying Who You Are No Matter What You Write through Abstracting Handwriting Style
+Jinyang Huang*, <span style="color: #2e6c9c; font-weight: bold;">Yuanhao Feng*</span>, Feng-Qi Cui*, Xiang Zhang, Zhi Liu, Xin Liu, Jianchun Liu, Fusang Zhang, Meng Li.
+<i>IEEE Transactions on Dependable and Secure Computing (TDSC), 2026</i><br>
+
+<span style="background-color: #e1f5fe; color: #01579b; padding: 2px 8px; border-radius: 4px; font-size: 0.8em;">CCF-A</span>
+<span style="background-color: #fff3e0; color: #e65100; padding: 2px 8px; border-radius: 4px; font-size: 0.8em;">SCI Q1</span>
+
+🔗 <a href="https://www.computer.org/csdl/journal/tq/5555/01/11417419/2ex64Fnc4RG">Paper</a>
+
+---
+
+<h3>Workshops, Posters, and Demos</h3>
+
+### [INFOCOM Workshop] VibraHealth: Pervasive Health Sensing via Speech-Evoked Multimodal Biosignals
+<span style="color: #2e6c9c; font-weight: bold;">Yuanhao Feng</span>, Jinyang Huang, Zhi Liu.
+<i>IEEE INFOCOM Workshop, 2026</i><br>
+
+<span style="background-color: #ede7f6; color: #5e35b1; padding: 2px 8px; border-radius: 4px; font-size: 0.8em;">Workshop</span>
+
+🔗 Paper (TBD)
+
+---
+
+### [UbiComp/ISWC Poster] A Lightweight Edge-Centric Chewing Sensing System with Multimodal Biosignal Fusion for Oral Health Monitoring
+<span style="color: #2e6c9c; font-weight: bold;">Yuanhao Feng</span>, Youwei Zhang, Hao Zhou, Xiang Zhang, Zhi Liu.
+<i>ACM UbiComp/ISWC Poster, 2025</i><br>
+
+<span style="background-color: #e8f5e9; color: #2e7d32; padding: 2px 8px; border-radius: 4px; font-size: 0.8em;">Poster</span>
+
+🔗 <a href="https://dl.acm.org/doi/10.1145/3714394.3754381">Paper</a>
+
+---
+
+### [MobiCom Demo] The RFID Can Hear Your Music Play
+<span style="color: #2e6c9c; font-weight: bold;">Yuanhao Feng</span>, Panlong Yang, Yanyong Zhang, Xiang-Yang Li, Ziyang Chen, Gang Huang.
+<i>ACM MobiCom Demo, 2019</i><br>
+
+<span style="background-color: #fff8e1; color: #ef6c00; padding: 2px 8px; border-radius: 4px; font-size: 0.8em;">Demo</span>
+
+🔗 <a href="https://dl.acm.org/doi/10.1145/3300061.3343379">Paper</a> ｜ 
+🎬 <a href="https://youtu.be/ze8SaeHHX6s">Video</a>
 
 ------------------------------------
 
