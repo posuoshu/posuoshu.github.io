@@ -134,7 +134,7 @@ author_profile: true
 ### [TOSN] RF-Eye: Commodity RFID Can Know What You Write and Who You Are Wherever You Are
 <span style="color: #2e6c9c; font-weight: bold;">Yuanhao Feng</span>, Jinyang Huang, Youwei Zhang, Xiang Zhang, Meng Li, Fusang Zhang, Zhi Liu.
 *ACM Transactions on Sensor Networks, 2025*
-<span style="background-color: #f3e5f5; color: #7b1fa2; padding: 2px 8px; border-radius: 4px; font-size: 0.8em;">CCF-B</span> <span style="background-color: #fff3e0; color: #e65100; padding: 2px 8px; border-radius: 4px; font-size: 0.8em;">中科院三区</span>
+<span style="background-color: #f3e5f5; color: #7b1fa2; padding: 2px 8px; border-radius: 4px; font-size: 0.8em;">CCF-B</span> <span style="background-color: #fff3e0; color: #e65100; padding: 2px 8px; border-radius: 4px; font-size: 0.8em;"></span>
 🔗 [Paper](https://dl.acm.org/doi/abs/10.1145/3737701)
 
 ---
