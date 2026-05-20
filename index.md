@@ -89,7 +89,7 @@ author_profile: true
 ## 📚 学术成果
 <p style="font-size: 0.9em; color: #666;">*注：下文中蓝色加粗为本人姓名，星号(*)代表共同第一作者</p>
 
-### 第一作者/共同一作论文
+### 第一作者/共同一作/共同通讯论文
 
 ### [IMWUT] VibraGlot: Contactless Vocal Disorder Screening via mmWave Neck-Surface Vibration Sensing
 <span style="color: #2e6c9c; font-weight: bold;">Yuanhao Feng</span>, Zhi Liu.
