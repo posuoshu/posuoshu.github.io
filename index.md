@@ -102,7 +102,6 @@ author_profile: true
 <i>Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT), 2026</i><br>
 
 <span style="background-color: #e1f5fe; color: #01579b; padding: 2px 8px; border-radius: 4px; font-size: 0.8em;">CCF-A</span>
-<span style="background-color: #ffebee; color: #c62828; padding: 2px 8px; border-radius: 4px; font-size: 0.8em;">Full Paper</span>
 
 🔗 Paper (TBD)
 
