@@ -202,7 +202,6 @@ Jinyang Huang*, <span style="color: #2e6c9c; font-weight: bold;">Yuanhao Feng*</
 <i>IEEE Transactions on Dependable and Secure Computing (TDSC), 2026</i><br>
 
 <span style="background-color: #e1f5fe; color: #01579b; padding: 2px 8px; border-radius: 4px; font-size: 0.8em;">CCF-A</span>
-<span style="background-color: #fff3e0; color: #e65100; padding: 2px 8px; border-radius: 4px; font-size: 0.8em;">SCI Q1</span>
 
 🔗 <a href="https://www.computer.org/csdl/journal/tq/5555/01/11417419/2ex64Fnc4RG">Paper</a>
 
