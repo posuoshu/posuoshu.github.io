@@ -139,6 +139,14 @@ author_profile: true
 
 ---
 
+### [IMWUT] Exploring and Addressing Low-Quality Auxiliary Modality in Earable Dual-microphone Speech Enhancement
+Feiyu Han, Dawei Yan, Shanyue Wang, Jinyang Huang, <span style="color: #2e6c9c; font-weight: bold;">Yuanhao Feng\*</span>, Panlong Yang\*.
+*Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, 2026*
+<span style="background-color: #e1f5fe; color: #01579b; padding: 2px 8px; border-radius: 4px; font-size: 0.8em;">CCF-A</span> <span style="background-color: #ffebee; color: #c62828; padding: 2px 8px; border-radius: 4px; font-size: 0.8em;">Top Journal</span>
+🔗 [Paper](TBD)
+
+---
+
 ### [TDSC] Identifying Who You Are No Matter What You Write through Abstracting Handwriting Style
 Jinyang Huang\*, <span style="color: #2e6c9c; font-weight: bold;">Yuanhao Feng\*</span>, Feng-Qi Cui\*, Xiang Zhang, Zhi Liu, Xin Liu, Jianchun Liu, Fusang Zhang, Meng Li.
 *IEEE Transactions on Dependable and Secure Computing, 2026*
